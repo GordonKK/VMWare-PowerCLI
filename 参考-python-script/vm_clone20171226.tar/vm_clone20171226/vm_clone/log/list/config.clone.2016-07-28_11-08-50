@@ -1,0 +1,2 @@
+app4:
+    - ['ST3-Template-RHEL6.5-JDK1.7_x64',TMCT,st3,TMCT,null,null,null,10.200.63.37,['ST3-5']]

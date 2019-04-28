@@ -1,0 +1,2 @@
+python get_clone.py -t template_RHEL6.5_tomcat7_tibco -b NJ-dts-tibco-126.119 -d '126.36' -H 192.168.126.36 -c nj -i 192.168.126.119 -m dts-tibco-126.119
+python get_clone.py -t Template-oracle-rhel6.5 -b NJ-dts-oracle-126.118 -d '126.36' -H 192.168.126.36 -c nj -i 192.168.126.118 -m dts-oracle-126.118

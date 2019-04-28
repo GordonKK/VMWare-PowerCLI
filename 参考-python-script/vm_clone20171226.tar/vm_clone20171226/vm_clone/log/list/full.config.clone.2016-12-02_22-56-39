@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh7c -b ST2-TEST-9.169 -d 'datastore1 (5)' -H 192.168.68.179 -c st2 -i 192.168.9.169 -m test-9.169 -a 'test'

@@ -1,0 +1,14 @@
+2016-04-20_14-57-24
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    DEV-TMCT-47.224
+the_stage            is    dev
+host_name            is    192.168.69.152
+datastore_name       is    69.152
+app                  is    None
+vm_ip                is    192.168.47.224
+vm_hostname          is    TMCT-47.224
+datastore free space is    715.44 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [##########                                                  ] 18%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 36%Percent: [#####################                                       ] 36%

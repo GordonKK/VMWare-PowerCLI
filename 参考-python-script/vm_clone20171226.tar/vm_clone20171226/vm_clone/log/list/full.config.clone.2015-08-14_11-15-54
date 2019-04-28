@@ -1,0 +1,2 @@
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TIBCO-108.10 -d '51.65' -H 10.10.51.65 -c st3 -i 10.200.108.10 -m TIBCO-108.10 -a 'zabbix'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TIBCO-108.11 -d '51.63' -H 10.10.51.63 -c st3 -i 10.200.108.11 -m TIBCO-108.11 -a 'zabbix'

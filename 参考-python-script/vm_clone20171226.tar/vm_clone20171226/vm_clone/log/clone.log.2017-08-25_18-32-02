@@ -1,0 +1,81 @@
+2017-08-25_18-32-02
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-IFS-yang.du-55.179
+the_stage            is    dev
+host_name            is    192.168.121.50
+datastore_name       is    192.168.121.50
+app                  is    None
+vm_ip                is    192.168.55.179
+vm_hostname          is    TMCT-55.179
+datastore free space is    5048.30 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 56%Percent: [###################################################         ] 85%Percent: [############################################################] 100%
+
+VM DEV-IFS-yang.du-55.179 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x109df550>
+Now running init
+DEV-IFS-yang.du-55.179 init sucess
+DEV-IFS-yang.du-55.179 clone and init  take  194 seconds
+DEV-IFS-yang.du-55.179 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-IFS-yang.du-55.160
+the_stage            is    dev
+host_name            is    192.168.121.42
+datastore_name       is    192.168.121.42
+app                  is    None
+vm_ip                is    192.168.55.160
+vm_hostname          is    TMCT-55.160
+datastore free space is    5216.40 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-IFS-yang.du-55.160 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 0 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1d37ab50>
+Now running init
+DEV-IFS-yang.du-55.160 init sucess
+DEV-IFS-yang.du-55.160 clone and init  take  189 seconds
+DEV-IFS-yang.du-55.160 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-IFS-yang.du-55.177
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.177
+vm_hostname          is    TMCT-55.177
+datastore free space is    5389.12 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#########                                                   ] 16%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [#######################################                     ] 65%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-IFS-yang.du-55.177 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 0 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1f886a10>
+Now running init
+DEV-IFS-yang.du-55.177 init sucess
+DEV-IFS-yang.du-55.177 clone and init  take  194 seconds
+DEV-IFS-yang.du-55.177 reboot now
+dev 3 ['DEV-esxi6.0']
+====================================================================================================

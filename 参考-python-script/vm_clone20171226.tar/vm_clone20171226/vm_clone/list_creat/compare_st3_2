@@ -1,0 +1,4 @@
+stage-03,tibco,10.10.77.127,public,,physical_machine
+stage-03,tibco,10.10.77.141,public,,physical_machine
+stage-03,tibco,10.10.77.143,public,,physical_machine
+#stage-03,,10.10.50.250,public,windows7Server64Guest,ST3-VC-50.250,windows,关机等待删除

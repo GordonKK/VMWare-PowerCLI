@@ -1,0 +1,2 @@
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b ST2-TMCT-9.200 -d 'datastore1 (58)' -H 192.168.70.139 -c st2 -i 192.168.9.200 -m TMCT-9.200 -a 'zabbix' 'tomcat'
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b ST2-TMCT-9.201 -d '68.200' -H 192.168.68.200 -c st2 -i 192.168.9.201 -m TMCT-9.201 -a 'zabbix' 'tomcat'

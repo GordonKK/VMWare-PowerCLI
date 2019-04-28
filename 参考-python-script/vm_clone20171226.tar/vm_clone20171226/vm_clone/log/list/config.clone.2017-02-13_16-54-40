@@ -1,0 +1,3 @@
+app2:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',REDIS,st3,redis,"'zabbix'",null,null,10.200.140.178,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',REDIS,st3,redis,"'zabbix'",null,null,10.200.140.177,['ST3-new']]

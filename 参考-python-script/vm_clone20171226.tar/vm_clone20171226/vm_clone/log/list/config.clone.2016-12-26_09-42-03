@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6-mysql-base',FIN-ORACLE,dev,fin-oracle,"'fin','oracle'",null,null,null,['Dev-1']]

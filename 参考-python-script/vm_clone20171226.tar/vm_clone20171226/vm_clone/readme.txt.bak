@@ -1,0 +1,33 @@
+#克隆     最常使用
+1.配置好conf/config.clone
+2.执行 sh muti_clone.sh
+#config.clone 说明
+#注意:不同环境写在同不的 key 下，也就是不同的app分组里面
+#环境名请使用 st1 st2 st3 sandbox  dev   , 用 sandbox 不要使用 sb
+#同一app分组下的机器，会分配到不同的宿主机上(因同一应用节点需分配至不同宿主机)
+#主机名  存储名  虚拟机IP  这三项如果要自动分配的，就在该位置上填 null，不要使用其他字符串
+
+#              模板名                 虚拟机名    环境名 hostname    应用名       宿主机名  存储名  虚拟机IP
+app1:
+    - ['Template-14.251-RHEL6.5_x64',TMCT-test-测试,st2,tmct-test,"'zabbix' 'tomcat'",null,null,null]
+    - ['Template-14.251-RHEL6.5_x64',TMCT-test-测试,st2,tmct-test,"'zabbix' 'tomcat'",null,null,null]
+
+
+
+
+
+
+
+
+#只执行初始化   
+#对于已经克隆好的机器，如果是esxi5.0以上的，只执行初始化
+#		        虚拟机名            环境        IP地址            hostname            应用名
+#python get_init.py -b ST2-TMCT-14.154   -c st2   -i  192.168.14.154  -m TMCT-14.154  -a  'zabbix' 'tomcat'
+
+
+#旧版本esxi 只执行初始化
+#如果是已经克隆在4.0和4.1上的虚拟机执行初始化，需要把初始化脚本 init_99bill.tgz 拷过去解压
+#             环境    IP地址           应用名     应用名
+#sh init.sh   st2    192.168.14.154   'zabbix'   'tomcat'
+
+

@@ -1,0 +1,1 @@
+python get_clone.py -t SCM-TS-SSO-64.62 -b ST2-test-testttttt-14.218 -d '7.159' -H 192.168.7.159 -c st2 -i 192.168.14.218 -m testttttt-14.218

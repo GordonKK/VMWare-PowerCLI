@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-mysql-base -b DEV-FIN-ORACLE-15.171 -d '68.94' -H 192.168.68.94 -c dev -i 192.168.15.171 -m fin-oracle-15.171 -a 'fin','oracle'

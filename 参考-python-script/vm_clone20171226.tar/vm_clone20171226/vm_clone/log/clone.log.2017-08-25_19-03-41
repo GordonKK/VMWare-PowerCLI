@@ -1,0 +1,107 @@
+2017-08-25_19-03-41
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-AML-dingqian.wang-55.197
+the_stage            is    dev
+host_name            is    192.168.121.42
+datastore_name       is    192.168.121.42
+app                  is    None
+vm_ip                is    192.168.55.197
+vm_hostname          is    TMCT-55.197
+datastore free space is    5201.74 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [####################################                        ] 60%Percent: [#######################################################     ] 92%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-AML-dingqian.wang-55.197 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x207f4690>
+Now running init
+DEV-AML-dingqian.wang-55.197 init sucess
+DEV-AML-dingqian.wang-55.197 clone and init  take  198 seconds
+DEV-AML-dingqian.wang-55.197 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-AML-dingqian.wang-55.154
+the_stage            is    dev
+host_name            is    192.168.121.50
+datastore_name       is    192.168.121.50
+app                  is    None
+vm_ip                is    192.168.55.154
+vm_hostname          is    TMCT-55.154
+datastore free space is    5041.72 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [#######################################                     ] 65%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-AML-dingqian.wang-55.154 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1d07f6d0>
+Now running init
+DEV-AML-dingqian.wang-55.154 init sucess
+DEV-AML-dingqian.wang-55.154 clone and init  take  198 seconds
+DEV-AML-dingqian.wang-55.154 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-AML-dingqian.wang-55.65
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.65
+vm_hostname          is    TMCT-55.65
+datastore free space is    5374.41 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [##################################                          ] 57%Percent: [##############################################              ] 78%Percent: [############################################################] 100%
+
+VM DEV-AML-dingqian.wang-55.65 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xee35d90>
+Now running init
+DEV-AML-dingqian.wang-55.65 init sucess
+DEV-AML-dingqian.wang-55.65 clone and init  take  193 seconds
+DEV-AML-dingqian.wang-55.65 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-AML-dingqian.wang-55.133
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.133
+vm_hostname          is    TMCT-55.133
+datastore free space is    25497.86 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [######                                                      ] 11%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################    ] 94%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-AML-dingqian.wang-55.133 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 0 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x21ae7e90>
+Now running init
+DEV-AML-dingqian.wang-55.133 init sucess
+DEV-AML-dingqian.wang-55.133 clone and init  take  226 seconds
+DEV-AML-dingqian.wang-55.133 reboot now
+dev 4 ['DEV-esxi6.0']
+====================================================================================================

@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-dev-tomcat-47.146-47.146 -d '68.200-2' -H 192.168.68.200 -c dev -i 192.168.47.146 -m dev-tomcat-47.146-47.146 -a 'zabbix' 'tomcat'

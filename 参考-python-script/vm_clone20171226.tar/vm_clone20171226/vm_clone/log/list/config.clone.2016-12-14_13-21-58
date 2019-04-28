@@ -1,0 +1,2 @@
+app1:
+    - ['Template-oracle-11new-64.239-master1',AM-AML_HENGSHENG-ORACLE1,dev,AM-AML_hengsheng-oracle1,"'oracle','AML_hengsheng'",null,null,null,['Dev-1']]

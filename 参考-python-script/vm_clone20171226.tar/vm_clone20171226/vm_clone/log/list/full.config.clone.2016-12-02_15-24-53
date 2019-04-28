@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-mysql-base -b ST2-GIT-GOGS-9.168 -d 'datastore1 (49)' -H 192.168.70.125 -c st2 -i 192.168.9.168 -m git-gogs-9.168 -a 'git','gogs'

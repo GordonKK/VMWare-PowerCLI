@@ -1,0 +1,2 @@
+app1:
+    - ['Template-Rhel7.1_x64-64.244',elk,st2,elk,"'zabbix'",null,null,192.168.9.216,['ST2-esxi6.0']]

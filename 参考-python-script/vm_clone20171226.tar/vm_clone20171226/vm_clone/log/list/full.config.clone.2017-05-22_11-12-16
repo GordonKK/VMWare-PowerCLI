@@ -1,0 +1,2 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-ASC-MAM-fred.yuan-55.228 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.228 -m TMCT-55.228
+python get_clone.py -t dev-temlate-47.219 -b DEV-ASC-MAM-fred.yuan-55.229 -d '192.168.121.46' -H 192.168.121.46 -c dev -i 192.168.55.229 -m TMCT-55.229

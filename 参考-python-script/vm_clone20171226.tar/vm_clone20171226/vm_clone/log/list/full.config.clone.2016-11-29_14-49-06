@@ -1,0 +1,1 @@
+python get_clone.py -t DEV-TMCT-47.45 -b DEV-huangyy-ws1-15.114 -d 'datastore1 (30)' -H 192.168.70.65 -c dev -i 192.168.15.114 -m huangyy-ws1-15.114 -a 'ws1'

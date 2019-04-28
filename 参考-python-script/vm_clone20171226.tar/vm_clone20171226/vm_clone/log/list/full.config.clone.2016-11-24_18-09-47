@@ -1,0 +1,2 @@
+python get_clone.py -t ST3-Temp-mysql-new-70.222-master -b ST3-VAS-MYSQL-master-63.143 -d 'datastore1 (114)' -H 10.10.51.103 -c st3 -i 10.200.63.143 -m vas-mysql-master-63.143 -a 'mysql'
+python get_clone.py -t ST3-Temp-mysql-new-70.222-master -b ST3-VAS-MYSQL-slave-63.144 -d 'datastore1 (113)' -H 10.10.51.111 -c st3 -i 10.200.63.144 -m vas-mysql-slave-63.144 -a 'mysql'

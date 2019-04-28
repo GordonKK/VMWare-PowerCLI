@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-oracle-11new-64.239-master1 -b DEV-TMCT-47.223 -d '68.96' -H 192.168.68.96 -c dev -i 192.168.47.223 -m TMCT-47.223

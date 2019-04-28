@@ -1,0 +1,3 @@
+pp2:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TIBCO,st3,TIBCO,"'zabbix'",null,null,10.200.108.10,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TIBCO,st3,TIBCO,"'zabbix'",null,null,10.200.108.11,['ST3-new']]

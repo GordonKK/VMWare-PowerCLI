@@ -1,0 +1,5 @@
+#stage-02,,192.168.63.29,public,rhel4_64Guest,ST2-SCM-CONTROL-63.219,老的中控,关机放着
+#stage-02,,192.168.14.174,,rhel6_64Guest,ST2-INF-ESB-14.174,关机没用到
+#stage-02,,192.168.14.175,,rhel6_64Guest,ST2-INF-ESB-14.175，关机没用到
+stage-02,tibco,192.168.64.72,public,,physical_machine,7222,
+tomcat,app-ctmp.war,192.168.138.40,/opt/oracle/tomcat/tomcatServer83-1/webapps,ctmp

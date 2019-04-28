@@ -1,0 +1,46 @@
+2016-11-25_16-00-01
+template_name        is    ST1-TOMCAT-65.155
+base_name            is    ST1-BOOTSTRAP-TCA-65.34
+the_stage            is    st1
+host_name            is    192.168.70.221
+datastore_name       is    datastore1 (100)
+app                  is    ['tca']
+vm_ip                is    192.168.65.34
+vm_hostname          is    bootstrap-tca-65.34
+Error,vm not found ST1-TOMCAT-65.155
+template_name_v is None
+Error:  clone  failed 
+st1 1 ['Stage1-2-ESXI5.5']
+192.168.65.1 already in use
+192.168.65.2 already in use
+192.168.65.3 already in use
+192.168.65.4 already in use
+192.168.65.5 already in use
+192.168.65.6 already in use
+192.168.65.7 already in use
+192.168.65.8 already in use
+192.168.65.9 already in use
+192.168.65.10 already in use
+192.168.65.12 already in use
+192.168.65.13 already in use
+192.168.65.14 already in use
+192.168.65.15 already in use
+192.168.65.16 already in use
+192.168.65.17 already in use
+192.168.65.18 already in use
+192.168.65.19 already in use
+192.168.65.20 already in use
+192.168.65.21 already in use
+192.168.65.22 already in use
+192.168.65.23 already in use
+192.168.65.24 already in use
+192.168.65.25 already in use
+192.168.65.26 already in use
+192.168.65.27 already in use
+192.168.65.28 already in use
+192.168.65.29 already in use
+192.168.65.30 already in use
+192.168.65.31 already in use
+192.168.65.32 already in use
+192.168.65.33 already in use
+====================================================================================================

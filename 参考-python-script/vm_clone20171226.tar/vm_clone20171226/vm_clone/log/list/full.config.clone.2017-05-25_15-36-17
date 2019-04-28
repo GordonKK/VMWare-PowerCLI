@@ -1,0 +1,1 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-POA-xiao.fan-55.232 -d '192.168.121.50' -H 192.168.121.50 -c dev -i 192.168.55.232 -m TMCT-55.232

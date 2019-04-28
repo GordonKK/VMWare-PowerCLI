@@ -1,0 +1,16 @@
+2016-11-08_14-34-34
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-156.238
+the_stage            is    st3
+host_name            is    10.10.51.33
+datastore_name       is    51.33
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.156.238
+vm_hostname          is    TMCT-156.238
+datastore free space is    1498.71 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Error: the vm ST3-TMCT-156.238 already exists 
+Error:  clone  failed 
+st3 1 ['ST3-3']
+====================================================================================================

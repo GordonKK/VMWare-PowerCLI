@@ -1,0 +1,14 @@
+2016-04-27_21-07-24
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-cdh-150.78
+the_stage            is    st3
+host_name            is    10.10.51.101
+datastore_name       is    datastore1 (8)
+app                  is    ['zabbix']
+vm_ip                is    10.200.150.78
+vm_hostname          is    TMCT-150.78
+datastore free space is    1648.04 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [############                                                ] 21%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 36%Percent: [#####################                                       ] 36%

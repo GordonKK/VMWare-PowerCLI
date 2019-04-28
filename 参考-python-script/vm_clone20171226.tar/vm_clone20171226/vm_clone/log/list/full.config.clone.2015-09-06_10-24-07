@@ -1,0 +1,1 @@
+python get_clone.py -t Template-tibco_os6.5 -b DEV-DTS-tibc-47.85 -d '250.15' -H 192.168.250.15 -c dev -i 192.168.47.85 -m DTS-tibco-47.85

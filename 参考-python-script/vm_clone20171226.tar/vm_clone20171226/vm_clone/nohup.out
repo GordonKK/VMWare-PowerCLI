@@ -1,0 +1,27 @@
+=========================================================
+2016-04-13_15-59-28
+log  :  log/clone.log.2016-04-13_15-59-28
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-150.64
+the_stage            is    st3
+host_name            is    10.10.51.42
+datastore_name       is    51.42
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.150.64
+vm_hostname          is    TMCT-150.64
+datastore free space is    828.97 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [#######                                                     ] 12%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Traceback (most recent call last):
+
+Error failed  clone : ST3-TMCT-150.64 用户取消了任务。
+  File "get_clone.py", line 295, in <module>
+    network_config(base_name,vlan_name)
+  File "get_clone.py", line 114, in network_config
+    vm=conn.get_vm_by_name(base_name)
+  File "/usr/local/python/lib/python2.7/site-packages/pysphere/vi_server.py", line 323, in get_vm_by_name
+    FaultTypes.OBJECT_NOT_FOUND)
+pysphere.resources.vi_exception.VIException: [Object Not Found]: Could not find a VM named 'ST3-TMCT-150.64'
+st3 1 ['ST3-4']
+====================================================================================================

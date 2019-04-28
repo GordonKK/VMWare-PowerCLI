@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TOMCAT-71.12 -d '192.168.70.177' -H 192.168.70.177 -c st3 -i 192.168.71.12 -m ST1-TOMCAT-71.12 -a 'zabbix' 'tomcat'

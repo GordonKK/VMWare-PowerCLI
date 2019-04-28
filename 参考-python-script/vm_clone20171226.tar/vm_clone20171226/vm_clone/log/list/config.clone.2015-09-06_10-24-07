@@ -1,0 +1,2 @@
+app4:
+    - ['Template-tibco_os6.5',DTS-tibc,dev,DTS-tibco,null,192.168.250.15,250.15,192.168.47.85,null]

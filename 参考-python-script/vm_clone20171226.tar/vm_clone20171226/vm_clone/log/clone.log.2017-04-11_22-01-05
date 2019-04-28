@@ -1,0 +1,14 @@
+2017-04-11_22-01-05
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-POA_EA_SCM-linjun.zhou-55.196
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.196
+vm_hostname          is    TMCT-55.196
+datastore free space is    25852.02 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%

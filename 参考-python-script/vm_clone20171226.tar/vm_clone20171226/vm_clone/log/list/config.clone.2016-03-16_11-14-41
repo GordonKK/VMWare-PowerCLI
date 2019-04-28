@@ -1,0 +1,8 @@
+app1:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st1,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage1-1','Stage1-2-ESXI5.5']]
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st1,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage1-1','Stage1-2-ESXI5.5']]
+app2:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st1,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage1-1','Stage1-2-ESXI5.5']]
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st1,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage1-1','Stage1-2-ESXI5.5']]
+app3:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st1,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage1-1','Stage1-2-ESXI5.5']]

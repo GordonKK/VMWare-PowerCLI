@@ -1,0 +1,4 @@
+python get_clone.py -t ST3-Template-TMCT.70.10 -b ST3-TMCT-197.54 -d '10.200.123.46' -H 10.200.123.46 -c st3 -i 10.200.197.54 -m TMCT-197.54 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-Template-TMCT.70.10 -b ST3-TMCT-197.55 -d '10.200.123.38' -H 10.200.123.38 -c st3 -i 10.200.197.55 -m TMCT-197.55 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-Template-TMCT.70.10 -b ST3-TMCT-197.56 -d '10.200.123.42' -H 10.200.123.42 -c st3 -i 10.200.197.56 -m TMCT-197.56 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-Template-TMCT.70.10 -b ST3-TMCT-197.57 -d '10.200.123.10' -H 10.200.123.10 -c st3 -i 10.200.197.57 -m TMCT-197.57 -a 'zabbix' 'tomcat'

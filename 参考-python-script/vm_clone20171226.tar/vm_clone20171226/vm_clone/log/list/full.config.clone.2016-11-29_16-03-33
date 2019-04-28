@@ -1,0 +1,1 @@
+python get_clone.py -t Templatel-win2016-dc-gui -b DEV-huangyy-ws1-15.117 -d '69.116' -H 192.168.69.116 -c dev -i 192.168.15.117 -m huangyy-ws1-15.117 -a 'ws1'

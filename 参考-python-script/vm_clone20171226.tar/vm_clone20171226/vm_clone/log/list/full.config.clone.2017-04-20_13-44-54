@@ -1,0 +1,2 @@
+python get_clone.py -t template-rh7-15.8 -b ST2-elk-47.53-47.53 -d '7.234-2' -H 192.168.7.234 -c st2 -i 192.168.47.53 -m elk.47.53-47.53 -a 
+python get_clone.py -t template-rh7-15.8 -b ST2-elk-47.63-47.63 -d '68.16-2' -H 192.168.68.16 -c st2 -i 192.168.47.63 -m elk.47.63-47.63 -a 

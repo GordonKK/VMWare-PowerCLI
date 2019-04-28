@@ -1,0 +1,5 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.223 -d '7.225-2' -H 192.168.7.226 -c st2 -i 192.168.9.223 -m log_analysis-9.223
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.224 -d 'datastore1 (10)' -H 192.168.121.18 -c st2 -i 192.168.9.224 -m log_analysis-9.224
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.225 -d 'datastore1 (42)' -H 192.168.121.36 -c st2 -i 192.168.9.225 -m log_analysis-9.225
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.226 -d '1-1' -H 192.168.68.1 -c st2 -i 192.168.9.226 -m log_analysis-9.226
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.227 -d '7.240' -H 192.168.7.240 -c st2 -i 192.168.9.227 -m log_analysis-9.227

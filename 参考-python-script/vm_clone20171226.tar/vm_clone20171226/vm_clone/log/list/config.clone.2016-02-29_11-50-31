@@ -1,0 +1,8 @@
+app1:
+    - ['ST2-zhoulinjun-7',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+    - ['ST2-zhoulinjun-7',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+app2:
+    - ['ST2-zhoulinjun-7',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+    - ['ST2-zhoulinjun-7',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+app3:
+    - ['ST2-zhoulinjun-7',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]

@@ -1,0 +1,3 @@
+sandbox,,None,,rhel6_64Guest,SB-weblogic017-12.17-sj
+sandbox,,192.168.12.7,,rhel6_64Guest,SB-weblogic007-12.7-sj
+sandbox,,192.168.12.8,,rhel6_64Guest,SB-weblogic008-12.8-sj

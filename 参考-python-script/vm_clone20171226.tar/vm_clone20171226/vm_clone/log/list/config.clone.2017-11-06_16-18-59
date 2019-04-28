@@ -1,0 +1,3 @@
+app1:
+    - ['dev-temlate-47.219',POA-erlin.zhang,dev,TMCT,null,null,null,192.168.55.73,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',POA-erlin.zhang,dev,TMCT,null,null,null,192.168.55.144,['DEV-esxi6.0']]

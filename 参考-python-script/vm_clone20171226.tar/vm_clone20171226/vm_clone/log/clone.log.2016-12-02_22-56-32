@@ -1,0 +1,26 @@
+2016-12-02_22-56-32
+template_name        is    template-rh7c-minimal-9.168
+base_name            is    DEV-TEST-15.120
+the_stage            is    dev
+host_name            is    192.168.68.96
+datastore_name       is    68.96
+app                  is    ['test']
+vm_ip                is    192.168.15.120
+vm_hostname          is    test-15.120
+datastore free space is    1066.18 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [###                                                         ] 5%Percent: [###                                                         ] 6%Percent: [####                                                        ] 7%Percent: [##################                                          ] 31%Percent: [##################                                          ] 31%Percent: [###################                                         ] 32%Percent: [###################                                         ] 32%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 36%Percent: [######################                                      ] 38%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [############################                                ] 47%Percent: [############################                                ] 47%Percent: [##################################                          ] 58%Percent: [#######################################                     ] 66%Percent: [#######################################                     ] 66%Percent: [###########################################                 ] 72%Percent: [##############################################              ] 78%Percent: [##################################################          ] 84%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-TEST-15.120 successfully clone
+set vlan  vlan 15
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 8 seconds
+can not login DEV-TEST-15.120
+Error: login DEV-TEST-15.120 failed with password 111111
+dev 1 ['Dev-1']
+192.168.15.84 already in use
+====================================================================================================

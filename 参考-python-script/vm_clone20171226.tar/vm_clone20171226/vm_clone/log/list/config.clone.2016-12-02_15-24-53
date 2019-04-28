@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6-mysql-base',GIT-GOGS,st2,git-gogs,"'git','gogs'",null,null,null,['Stage2-2-ESXI5.5']]

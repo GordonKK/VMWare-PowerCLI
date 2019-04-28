@@ -1,0 +1,6 @@
+st1: ['Stage1-1','Stage1-2-ESXI5.5','ST3-1','ST3-2','ST3-3','ST3-4','ST3-5','ST3-6','ST3-new']
+st2: ['ST2-esxi6.0','ST2-esxi5.5','ST2-esxi5.0']
+st3: ['Stage1-1','Stage1-2-ESXI5.5','ST3-1','ST3-2','ST3-3','ST3-4','ST3-5','ST3-6','ST3-new']
+sandbox: ['Sandbox-1','Sandbox-2-ESXI5.5']
+dev: ['DEV-esxi6.0','DEV-esxi5.5','DEV-esxi5.0']
+nj: ['njpmd-1','it-1','R720XD-72G','R610+R715','R620','lab','72G-jingping-2U']

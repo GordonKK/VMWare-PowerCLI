@@ -1,0 +1,45 @@
+2017-04-21_14-05-42
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    ST2-log_analysis-9.229
+the_stage            is    st2
+host_name            is    192.168.121.22
+datastore_name       is    datastore1 (18)
+app                  is    None
+vm_ip                is    192.168.9.229
+vm_hostname          is    log_analysis-9.229
+datastore free space is    301.18 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##                                                          ] 4%Percent: [#####                                                       ] 9%
+Error failed  clone : ST2-log_analysis-9.229 指定的参数不正确: spec.location.host
+st2 1 ['ST2-esxi6.0']
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.229
+====================================================================================================

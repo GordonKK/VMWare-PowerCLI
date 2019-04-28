@@ -1,0 +1,3 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-POA-chong.wen-55.235 -d '192.168.121.48' -H 192.168.121.48 -c dev -i 192.168.55.235 -m TMCT-55.235
+python get_clone.py -t dev-temlate-47.219 -b DEV-POA-chong.wen-55.236 -d '192.168.121.50' -H 192.168.121.50 -c dev -i 192.168.55.236 -m TMCT-55.236
+python get_clone.py -t dev-temlate-47.219 -b DEV-POA-chong.wen-55.237 -d '192.168.121.46' -H 192.168.121.46 -c dev -i 192.168.55.237 -m TMCT-55.237

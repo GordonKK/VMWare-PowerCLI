@@ -1,0 +1,2 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b SANDBOX-TMCT-46.110 -d 'datastore1 (28)' -H 192.168.70.61 -c sandbox -i 192.168.46.110 -m TMCT-46.110 -a 'zabbix' 'tomcat'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b SANDBOX-TMCT-46.111 -d 'datastore1 (29)' -H 192.168.70.63 -c sandbox -i 192.168.46.111 -m TMCT-46.111 -a 'zabbix' 'tomcat'

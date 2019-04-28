@@ -1,0 +1,2 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.169 -d 'datastore1 (17)' -H 192.168.70.35 -c dev -i 192.168.47.169 -m TMCT-47.169
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.170 -d '68.177' -H 192.168.68.177 -c dev -i 192.168.47.170 -m TMCT-47.170

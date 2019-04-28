@@ -1,0 +1,5 @@
+app1:
+    - ['dev-temlate-47.219',AML-dingqian.wang,dev,TMCT,null,null,null,192.168.55.197,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',AML-dingqian.wang,dev,TMCT,null,null,null,192.168.55.154,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',AML-dingqian.wang,dev,TMCT,null,null,null,192.168.55.65,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',AML-dingqian.wang,dev,TMCT,null,null,null,192.168.55.133,['DEV-esxi6.0']]

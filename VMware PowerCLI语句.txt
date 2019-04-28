@@ -1,0 +1,1 @@
+New-VM -Name test03 -ResourcePool Resources -VMHost 172.16.221.37 -Datastore vsanDatastore -NumCPU 2 -MemoryGB 4 -DiskGB 20 -NetworkName "dev_01" -Floppy -DiskStorageFormat Thin -GuestID winNetDatacenterGuest

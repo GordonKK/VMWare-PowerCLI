@@ -1,0 +1,97 @@
+2017-04-06_21-13-27
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.206
+the_stage            is    st2
+host_name            is    192.168.70.17
+datastore_name       is    datastore1 (3)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.206
+vm_hostname          is    TMCT-9.206
+datastore free space is    1054.44 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#####                                                       ] 9%
+Error failed  clone : ST2-TMCT-9.206 指定的参数不正确: spec.location.host
+ST2-TMCT-9.206
+vlan 9
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.207
+the_stage            is    st2
+host_name            is    192.168.70.79
+datastore_name       is    70.79
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.207
+vm_hostname          is    TMCT-9.207
+datastore free space is    915.11 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#####                                                       ] 9%
+Error failed  clone : ST2-TMCT-9.207 指定的参数不正确: spec.location.folder
+ST2-TMCT-9.207
+vlan 9
+st2 2 ['ST2-esxi6.0', 'ST2-esxi5.5']
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.206
+-9.206
+TMCT
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.207
+-9.207
+TMCT
+====================================================================================================

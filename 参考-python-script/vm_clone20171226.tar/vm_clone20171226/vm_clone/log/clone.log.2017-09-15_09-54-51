@@ -1,0 +1,55 @@
+2017-09-15_09-54-51
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-ACS-FSC-hongtao.meng-55.78
+the_stage            is    dev
+host_name            is    192.168.121.42
+datastore_name       is    192.168.121.42
+app                  is    None
+vm_ip                is    192.168.55.78
+vm_hostname          is    TMCT-55.78
+datastore free space is    5118.58 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [######                                                      ] 11%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-ACS-FSC-hongtao.meng-55.78 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x20009d50>
+Now running init
+DEV-ACS-FSC-hongtao.meng-55.78 init sucess
+DEV-ACS-FSC-hongtao.meng-55.78 clone and init  take  199 seconds
+DEV-ACS-FSC-hongtao.meng-55.78 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-ACS-FSC-hongtao.meng-55.166
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.166
+vm_hostname          is    TMCT-55.166
+datastore free space is    5304.05 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-ACS-FSC-hongtao.meng-55.166 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 12 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x4ab5cd0>
+Now running init
+DEV-ACS-FSC-hongtao.meng-55.166 init sucess
+DEV-ACS-FSC-hongtao.meng-55.166 clone and init  take  198 seconds
+DEV-ACS-FSC-hongtao.meng-55.166 reboot now
+dev 2 ['DEV-esxi6.0']
+====================================================================================================

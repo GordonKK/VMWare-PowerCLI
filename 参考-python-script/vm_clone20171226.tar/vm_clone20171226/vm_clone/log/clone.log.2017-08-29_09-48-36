@@ -1,0 +1,82 @@
+2017-08-29_09-48-36
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-INF-jie.lv-55.124
+the_stage            is    dev
+host_name            is    192.168.121.50
+datastore_name       is    192.168.121.50
+app                  is    None
+vm_ip                is    192.168.55.124
+vm_hostname          is    TMCT-55.124
+datastore free space is    5015.07 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [############                                                ] 21%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-INF-jie.lv-55.124 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x3aa7090>
+Now running init
+DEV-INF-jie.lv-55.124 init sucess
+DEV-INF-jie.lv-55.124 clone and init  take  195 seconds
+DEV-INF-jie.lv-55.124 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-INF-jie.lv-55.210
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.210
+vm_hostname          is    TMCT-55.210
+datastore free space is    25484.58 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [###########################################                 ] 72%Percent: [############################################################] 100%
+Percent: [############################################################] 100%
+
+VM DEV-INF-jie.lv-55.210 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xee4e850>
+Now running init
+DEV-INF-jie.lv-55.210 init sucess
+DEV-INF-jie.lv-55.210 clone and init  take  229 seconds
+DEV-INF-jie.lv-55.210 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-INF-jie.lv-55.150
+the_stage            is    dev
+host_name            is    192.168.121.42
+datastore_name       is    192.168.121.42
+app                  is    None
+vm_ip                is    192.168.55.150
+vm_hostname          is    TMCT-55.150
+datastore free space is    5185.20 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-INF-jie.lv-55.150 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xbca1090>
+Now running init
+DEV-INF-jie.lv-55.150 init sucess
+DEV-INF-jie.lv-55.150 clone and init  take  185 seconds
+DEV-INF-jie.lv-55.150 reboot now
+dev 3 ['DEV-esxi6.0']
+====================================================================================================

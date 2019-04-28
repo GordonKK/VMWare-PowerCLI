@@ -1,0 +1,1 @@
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-COLLECTD-TEST-15.98 -d 'datastore1 (40)' -H 192.168.70.97 -c dev -i 192.168.15.98 -m collectd02-15.98

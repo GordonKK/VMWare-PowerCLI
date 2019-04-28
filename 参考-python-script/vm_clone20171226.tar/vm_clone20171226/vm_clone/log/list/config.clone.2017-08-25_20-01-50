@@ -1,0 +1,2 @@
+app1:
+    - ['dev-template-lvm-mysql',AML-dingqian.wang,dev,TMCT,null,null,null,192.168.55.163,['DEV-esxi6.0']]

@@ -1,0 +1,53 @@
+2017-04-14_14-01-43
+template_name        is    dev-template-lvm-mysql
+base_name            is    DEV-SHoffice-sandy.xie-55.217
+the_stage            is    dev
+host_name            is    192.168.121.10
+datastore_name       is    192.168.121.10
+app                  is    None
+vm_ip                is    192.168.55.217
+vm_hostname          is    TMCT-55.217
+datastore free space is    4124.60 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [######################                                      ] 37%Percent: [######################                                      ] 37%Percent: [######################                                      ] 38%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [##########################                                  ] 44%Percent: [############################                                ] 48%Percent: [################################                            ] 54%Percent: [##################################                          ] 57%Percent: [##################################                          ] 57%Percent: [###################################                         ] 59%Percent: [####################################                        ] 60%Percent: [####################################                        ] 61%Percent: [####################################                        ] 61%Percent: [#####################################                       ] 62%Percent: [#####################################                       ] 63%Percent: [#######################################                     ] 66%Percent: [########################################                    ] 67%Percent: [########################################                    ] 68%Percent: [########################################                    ] 68%Percent: [#########################################                   ] 69%Percent: [###########################################                 ] 72%Percent: [#################################################           ] 83%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-SHoffice-sandy.xie-55.217 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 16 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x165a1d90>
+Now running init
+DEV-SHoffice-sandy.xie-55.217 init sucess
+DEV-SHoffice-sandy.xie-55.217 clone and init  take  96 seconds
+DEV-SHoffice-sandy.xie-55.217 reboot now
+dev 1 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.217
+====================================================================================================

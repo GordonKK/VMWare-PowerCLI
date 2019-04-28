@@ -1,0 +1,4 @@
+app2:
+    - ['Template-14.251-RHEL6.5_x64',TMCT,sandbox,TMCT,"'zabbix' 'tomcat'",null,null,null,['Sandbox-1','Sandbox-2-ESXI5.5']]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,sandbox,TMCT,"'zabbix' 'tomcat'",null,null,null,['Sandbox-1','Sandbox-2-ESXI5.5']]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,sandbox,TMCT,"'zabbix' 'tomcat'",null,null,null,['Sandbox-1','Sandbox-2-ESXI5.5']]

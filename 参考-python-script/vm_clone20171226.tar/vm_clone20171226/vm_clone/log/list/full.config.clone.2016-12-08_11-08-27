@@ -1,0 +1,1 @@
+python get_clone.py -t template-fedora25-15.116 -b DEV-HUANGYY-WS1-15.123 -d '69.152' -H 192.168.69.152 -c dev -i 192.168.15.123 -m huangyy-ws1-15.123 -a 'redhat','ws1'

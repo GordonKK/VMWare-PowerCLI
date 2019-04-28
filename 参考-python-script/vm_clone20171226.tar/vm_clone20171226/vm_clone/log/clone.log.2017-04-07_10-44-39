@@ -1,0 +1,121 @@
+2017-04-07_10-44-39
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.212
+the_stage            is    st2
+host_name            is    192.168.68.200
+datastore_name       is    68.200-2
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.212
+vm_hostname          is    TMCT-9.212
+datastore free space is    14403.51 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [####################                                        ] 34%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [######################################                      ] 64%Percent: [################################################            ] 80%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST2-TMCT-9.212 successfully clone
+ST2-TMCT-9.212
+vlan 9
+set vlan  vlan 9
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 16 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x131179d0>
+Now running init
+ST2-TMCT-9.212 init sucess
+ST2-TMCT-9.212 clone and init  take  276 seconds
+ST2-TMCT-9.212 reboot now
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.213
+the_stage            is    st2
+host_name            is    192.168.70.127
+datastore_name       is    datastore1 (53)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.213
+vm_hostname          is    TMCT-9.213
+datastore free space is    1398.95 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#####                                                       ] 9%Percent: [####################                                        ] 34%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [######################################                      ] 64%Percent: [###########################################                 ] 73%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST2-TMCT-9.213 successfully clone
+ST2-TMCT-9.213
+vlan 9
+set vlan  vlan 9
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 12 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1426ff90>
+Now running init
+ST2-TMCT-9.213 init sucess
+ST2-TMCT-9.213 clone and init  take  287 seconds
+ST2-TMCT-9.213 reboot now
+st2 2 ['ST2-esxi6.0', 'ST2-esxi5.5']
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.212
+-9.212
+TMCT
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.213
+-9.213
+TMCT
+====================================================================================================

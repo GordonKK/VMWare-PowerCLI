@@ -1,0 +1,41 @@
+2017-04-11_15-49-35
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    DEV-test-55.155
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.155
+vm_hostname          is    TMCT-55.155
+datastore free space is    25853.14 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [############################################################] 100%
+
+Error failed  clone : DEV-test-55.155 指定的参数不正确: spec.location.folder
+dev 1 ['dev-esxi-6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.155
+====================================================================================================

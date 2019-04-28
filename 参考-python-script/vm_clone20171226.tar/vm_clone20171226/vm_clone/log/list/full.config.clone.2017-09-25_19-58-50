@@ -1,0 +1,1 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-INF-hongzhi.zheng-55.136 -d '192.168.121.48' -H 192.168.121.48 -c dev -i 192.168.55.136 -m TMCT-55.136

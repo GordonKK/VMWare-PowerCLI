@@ -1,0 +1,2 @@
+python get_clone.py -t Template-Rhel7.1_x64-64.244 -b ST2-elk-9.247 -d 'datastore1 (89)' -H 192.168.70.203 -c st2 -i 192.168.9.247 -m TMCT-9.247 -a 
+python get_clone.py -t Template-Rhel7.1_x64-64.244 -b ST2-elk-9.248 -d 'datastore1 (4)' -H 192.168.70.19 -c st2 -i 192.168.9.248 -m TMCT-9.248 -a 

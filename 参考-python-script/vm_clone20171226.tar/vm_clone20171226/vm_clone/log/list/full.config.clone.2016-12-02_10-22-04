@@ -1,0 +1,1 @@
+python get_clone.py -t Template-win2k8r2-dc-gui-14.200 -b DEV-huangyy-ws1-15.118 -d '68.98' -H 192.168.68.98 -c dev -i 192.168.15.118 -m huangyy-ws1-15.118 -a 'ws1'

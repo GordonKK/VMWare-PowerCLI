@@ -1,0 +1,2 @@
+app1:
+    - ['template_win2008',POA_SOC-sandy.xie,dev,TMCT,null,null,null,null,['DEV-esxi6.0']]

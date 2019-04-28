@@ -1,0 +1,1 @@
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-灾备快钱项目组(linjun.zhou@99bill.com)-47.172 -d '68.92' -H 192.168.68.92 -c dev -i 192.168.47.172 -m TMCT-47.172

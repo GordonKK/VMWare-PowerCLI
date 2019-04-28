@@ -1,0 +1,12 @@
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.8 -d '7.15' -H 192.168.7.15 -c dev -i 192.168.15.8 -m TMCT-15.8
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.9 -d '69.154' -H 192.168.69.154 -c dev -i 192.168.15.9 -m TMCT-15.9
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.21 -d '68.96' -H 192.168.68.96 -c dev -i 192.168.15.21 -m TMCT-15.21
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.22 -d '69.116' -H 192.168.69.116 -c dev -i 192.168.15.22 -m TMCT-15.22
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.30 -d '69.100' -H 192.168.69.100 -c dev -i 192.168.15.30 -m TMCT-15.30
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.38 -d '68.98' -H 192.168.68.98 -c dev -i 192.168.15.38 -m TMCT-15.38
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.40 -d '68.110' -H 192.168.68.110 -c dev -i 192.168.15.40 -m TMCT-15.40
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.41 -d '68.92' -H 192.168.68.92 -c dev -i 192.168.15.41 -m TMCT-15.41
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.42 -d '69.152' -H 192.168.69.152 -c dev -i 192.168.15.42 -m TMCT-15.42
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.50 -d '68.100' -H 192.168.68.100 -c dev -i 192.168.15.50 -m TMCT-15.50
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.59 -d '7.231' -H 192.168.7.231 -c dev -i 192.168.15.59 -m TMCT-15.59
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.60 -d '7.175' -H 192.168.7.175 -c dev -i 192.168.15.60 -m TMCT-15.60

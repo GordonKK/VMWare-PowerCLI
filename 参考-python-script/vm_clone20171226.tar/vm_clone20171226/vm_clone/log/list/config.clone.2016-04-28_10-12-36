@@ -1,0 +1,7 @@
+app1:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',cdh,st3,TMCT,"'zabbix'",null,null,10.200.150.75,['ST3-6']]
+app2:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',cdh,st3,TMCT,"'zabbix'",null,null,10.200.150.76,['ST3-6']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',cdh,st3,TMCT,"'zabbix'",null,null,10.200.150.77,['ST3-6']]
+app3:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',cdh,st3,TMCT,"'zabbix'",null,null,10.200.150.78,['ST3-6']]

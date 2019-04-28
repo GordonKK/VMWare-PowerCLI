@@ -1,0 +1,16 @@
+2016-04-13_14-29-55
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-7.8
+the_stage            is    st3
+host_name            is    10.10.51.34
+datastore_name       is    51.34
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.7.8
+vm_hostname          is    TMCT-7.8
+datastore free space is    377.33 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [###                                                         ] 5%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 36%
+Error failed  clone : ST3-TMCT-7.8 用户取消了任务。
+====================================================================================================

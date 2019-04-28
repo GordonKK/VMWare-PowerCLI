@@ -1,0 +1,1 @@
+python get_clone.py -t Template-oracle-11new-64.239-master1 -b DEV-AM-AML_HENGSHENG-ORACLE1-15.145 -d '68.100' -H 192.168.68.100 -c dev -i 192.168.15.145 -m AM-AML_hengsheng-oracle1-15.145 -a 'oracle','AML_hengsheng'

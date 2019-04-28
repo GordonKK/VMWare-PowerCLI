@@ -1,0 +1,14 @@
+2016-12-14_13-21-51
+template_name        is    Template-oracle-11new-64.239-master1
+base_name            is    ST2-TEST1-9.170
+the_stage            is    st2
+host_name            is    192.168.70.19
+datastore_name       is    datastore1 (4)
+app                  is    ['test']
+vm_ip                is    192.168.9.170
+vm_hostname          is    test1-9.170
+datastore free space is    1191.51 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%

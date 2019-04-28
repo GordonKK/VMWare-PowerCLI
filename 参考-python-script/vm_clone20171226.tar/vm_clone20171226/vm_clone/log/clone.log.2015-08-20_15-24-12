@@ -1,0 +1,18 @@
+=====================================================================================
+2015-08-20_15-24-12
+python get_clone.py -t app4: -b  -d  -H  -c  -i  -m  -a  
+=====================================================================================
+2015-08-20_15-24-13
+python get_clone.py -t - ['Template-14.251-RHEL6.5_x64' -b TMCT -d dev -H TMCT -c null -i null -m null -a null 
+=====================================================================================
+2015-08-20_15-24-14
+python get_clone.py -t - ['Template-14.251-RHEL6.5_x64' -b TMCT -d dev -H TMCT -c null -i null -m null -a null 
+=====================================================================================
+2015-08-20_15-24-15
+python get_clone.py -t - ['Template-14.251-RHEL6.5_x64' -b TMCT -d dev -H TMCT -c null -i null -m null -a null 
+=====================================================================================
+2015-08-20_15-24-16
+python get_clone.py -t - ['Template-14.251-RHEL6.5_x64' -b TMCT -d dev -H TMCT -c null -i null -m null -a null 
+=====================================================================================
+2015-08-20_15-24-17
+python get_clone.py -t - ['Template-14.251-RHEL6.5_x64' -b TMCT -d dev -H TMCT -c null -i null -m null -a null 

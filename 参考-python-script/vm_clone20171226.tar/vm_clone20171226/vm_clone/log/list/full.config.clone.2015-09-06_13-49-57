@@ -1,0 +1,1 @@
+python get_clone.py -t Dev-DTS-Oracle11-47.83 -b DEV-DTS-oracle-47.87 -d '68.119' -H 192.168.68.119 -c dev -i 192.168.47.87 -m DTS-oracle-47.87

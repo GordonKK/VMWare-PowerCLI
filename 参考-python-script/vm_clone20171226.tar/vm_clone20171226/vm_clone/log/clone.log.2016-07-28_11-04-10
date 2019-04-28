@@ -1,0 +1,14 @@
+2016-07-28_11-04-10
+template_name        is    ST3-Template-RHEL6.5-JDK1.7_x64
+base_name            is    ST3-TMCT-63.37
+the_stage            is    st3
+host_name            is    10.10.51.56
+datastore_name       is    51.56
+app                  is    None
+vm_ip                is    10.200.63.37
+vm_hostname          is    TMCT-63.37
+datastore free space is    718.97 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [##########                                                  ] 17%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%

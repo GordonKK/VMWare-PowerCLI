@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-mysql-base -b DEV-FIN-APP-15.147 -d '68.110' -H 192.168.68.110 -c dev -i 192.168.15.147 -m fin-app-15.147 -a 'fin','app'

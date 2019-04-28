@@ -1,0 +1,2 @@
+app5:
+    - ['template_RHEL6.5_tomcat7_new',dts-TMCT,nj,TMCT,null,192.168.126.34,126.34,192.168.126.198,null]

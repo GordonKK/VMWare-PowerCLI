@@ -1,0 +1,4 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-47.210 -d '68.110' -H 192.168.68.110 -c dev -i 192.168.47.210 -m TMCT-47.210
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-47.211 -d '69.152' -H 192.168.69.152 -c dev -i 192.168.47.211 -m TMCT-47.211
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-47.212 -d '68.191' -H 192.168.68.191 -c dev -i 192.168.47.212 -m TMCT-47.212
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-47.213 -d 'datastore1 (25)' -H 192.168.70.53 -c dev -i 192.168.47.213 -m TMCT-47.213

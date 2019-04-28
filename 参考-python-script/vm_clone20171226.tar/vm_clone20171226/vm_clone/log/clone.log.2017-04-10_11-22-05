@@ -1,0 +1,22 @@
+2017-04-10_11-22-05
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-63.116
+the_stage            is    st2
+host_name            is    192.168.121.16
+datastore_name       is    datastore1 (2)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.63.116
+vm_hostname          is    TMCT-63.116
+datastore free space is    1022.81 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+
+Error failed  clone : ST2-TMCT-63.116 指定的参数不正确: spec.location.host
+ST2-TMCT-63.116
+vlan 63
+st2 1 ['ST2-esxi6.0']
+-63.116
+TMCT
+====================================================================================================

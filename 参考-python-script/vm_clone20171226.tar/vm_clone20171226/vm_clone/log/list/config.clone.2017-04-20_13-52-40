@@ -1,0 +1,3 @@
+app1:
+    - ['template-rh7-15.8',elk-47.53,st2,elk.47.53,"",null,null,192.168.47.53,['ST2-esxi6.0']]
+    - ['template-rh7-15.8',elk-47.63,st2,elk.47.63,"",null,null,192.168.47.63,['ST2-esxi6.0']]

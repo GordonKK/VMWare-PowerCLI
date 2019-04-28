@@ -1,0 +1,4 @@
+app1:
+    - ['dev-temlate-47.219',INF-jie.lv,dev,TMCT,null,null,null,192.168.55.124,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',INF-jie.lv,dev,TMCT,null,null,null,192.168.55.210,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',INF-jie.lv,dev,TMCT,null,null,null,192.168.55.150,['DEV-esxi6.0']]

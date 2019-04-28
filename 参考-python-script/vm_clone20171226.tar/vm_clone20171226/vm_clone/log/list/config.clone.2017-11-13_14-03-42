@@ -1,0 +1,2 @@
+app1:
+    - ['dev-template-lvm-mysql',UX-jiankai.chang,dev,TMCT,null,null,null,192.168.55.221,['DEV-esxi6.0']]

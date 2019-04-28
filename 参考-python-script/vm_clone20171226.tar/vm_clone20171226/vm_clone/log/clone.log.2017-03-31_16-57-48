@@ -1,0 +1,18 @@
+2017-03-31_16-57-49
+st2
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    DEV-dev-tomcat-47.146-47.146
+the_stage            is    dev
+host_name            is    192.168.70.21
+datastore_name       is    datastore1 (9)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.47.146
+vm_hostname          is    dev-tomcat-47.146-47.146
+datastore free space is    1197.60 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [##                                                          ] 4%Percent: [#####                                                       ] 9%
+Error failed  clone : DEV-dev-tomcat-47.146-47.146 指定的参数不正确: spec.location.host
+dev 1 ['esxi-5.5']
+====================================================================================================

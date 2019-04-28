@@ -1,0 +1,209 @@
+2017-04-28_11-15-56
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-bingguo.cao-55.223
+the_stage            is    dev
+host_name            is    192.168.121.46
+datastore_name       is    192.168.121.46
+app                  is    None
+vm_ip                is    192.168.55.223
+vm_hostname          is    TMCT-55.223
+datastore free space is    5425.20 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [#######################################                     ] 65%Percent: [############################################################] 100%
+
+VM DEV-RM-bingguo.cao-55.223 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 12 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xef80050>
+Now running init
+DEV-RM-bingguo.cao-55.223 init sucess
+DEV-RM-bingguo.cao-55.223 clone and init  take  192 seconds
+DEV-RM-bingguo.cao-55.223 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-bingguo.cao-55.224
+the_stage            is    dev
+host_name            is    192.168.121.50
+datastore_name       is    192.168.121.50
+app                  is    None
+vm_ip                is    192.168.55.224
+vm_hostname          is    TMCT-55.224
+datastore free space is    5565.84 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [######                                                      ] 11%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [#########################################                   ] 69%Percent: [############################################################] 100%
+
+VM DEV-RM-bingguo.cao-55.224 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xa36a910>
+Now running init
+DEV-RM-bingguo.cao-55.224 init sucess
+DEV-RM-bingguo.cao-55.224 clone and init  take  185 seconds
+DEV-RM-bingguo.cao-55.224 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-bingguo.cao-55.226
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.226
+vm_hostname          is    TMCT-55.226
+datastore free space is    5557.67 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [##########################################                  ] 70%Percent: [############################################################] 100%
+
+VM DEV-RM-bingguo.cao-55.226 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x8a92f50>
+Now running init
+DEV-RM-bingguo.cao-55.226 init sucess
+DEV-RM-bingguo.cao-55.226 clone and init  take  188 seconds
+DEV-RM-bingguo.cao-55.226 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-bingguo.cao-55.227
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.227
+vm_hostname          is    TMCT-55.227
+datastore free space is    25712.45 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [##################################                          ] 57%Percent: [############################################                ] 74%Percent: [############################################################] 100%
+
+VM DEV-RM-bingguo.cao-55.227 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1eda7150>
+Now running init
+DEV-RM-bingguo.cao-55.227 init sucess
+DEV-RM-bingguo.cao-55.227 clone and init  take  219 seconds
+DEV-RM-bingguo.cao-55.227 reboot now
+dev 4 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.223
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.224
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.225 already in use
+192.168.55.226
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.225 already in use
+192.168.55.227
+====================================================================================================

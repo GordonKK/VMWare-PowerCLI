@@ -1,0 +1,1 @@
+python get_clone.py -t ST2-Oracle-backup-63.28 -b DEV-DTS-oracle-47.86 -d '250.15' -H 192.168.250.15 -c dev -i 192.168.47.86 -m DTS-oracle-47.86

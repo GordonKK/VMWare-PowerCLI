@@ -1,0 +1,52 @@
+2017-08-02_10-42-51
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-IFS-henrry.zhang-55.248
+the_stage            is    dev
+host_name            is    192.168.121.42
+datastore_name       is    192.168.121.42
+app                  is    None
+vm_ip                is    192.168.55.248
+vm_hostname          is    TMCT-55.248
+datastore free space is    5235.29 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [############################                                ] 48%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [###########################################                 ] 73%Percent: [############################################################] 100%
+
+VM DEV-IFS-henrry.zhang-55.248 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xe5707d0>
+Now running init
+DEV-IFS-henrry.zhang-55.248 init sucess
+DEV-IFS-henrry.zhang-55.248 clone and init  take  189 seconds
+DEV-IFS-henrry.zhang-55.248 reboot now
+dev 1 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.239 already in use
+192.168.55.248
+====================================================================================================

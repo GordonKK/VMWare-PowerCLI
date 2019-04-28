@@ -1,0 +1,2 @@
+app1:
+    - ['dev-template-lvm-mysql',IFS-henrry.zhang,dev,TMCT,null,null,null,null,['DEV-esxi6.0']]

@@ -1,0 +1,1 @@
+python get_clone.py -t dev-template-lvm-mysql -b DEV-UX-jiankai.chang-55.221 -d '192.168.121.48' -H 192.168.121.48 -c dev -i 192.168.55.221 -m TMCT-55.221

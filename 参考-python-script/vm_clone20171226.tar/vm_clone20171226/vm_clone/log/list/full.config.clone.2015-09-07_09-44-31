@@ -1,0 +1,1 @@
+python get_clone.py -t tibco-template-for-dev-clone -b ST2-test-testttttt-14.219 -d '68.118' -H 192.168.68.118 -c st2 -i 192.168.14.219 -m testttttt-14.219

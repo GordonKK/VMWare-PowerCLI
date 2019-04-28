@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6c-minimal -b DEV-REDIS-MIGRATOR1-15.138 -d '68.98' -H 192.168.68.98 -c dev -i 192.168.15.138 -m redis-migrator1-15.138 -a 'redis','migrator'

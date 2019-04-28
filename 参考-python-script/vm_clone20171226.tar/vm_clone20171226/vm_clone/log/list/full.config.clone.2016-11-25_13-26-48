@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-template-7 -b ST1-BOOTSTRAP-RH7-65.11 -d 'datastore1 (100)' -H 192.168.70.221 -c st1 -i 192.168.65.11 -m bootstrap-rh7-65.11 -a 'rh7'

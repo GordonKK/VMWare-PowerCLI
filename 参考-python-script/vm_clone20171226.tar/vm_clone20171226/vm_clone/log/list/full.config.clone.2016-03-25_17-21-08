@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TMCT-151.241 -d 'datastore1' -H 10.10.51.89 -c st3 -i 10.200.151.241 -m TMCT-151.241 -a 'zabbix' 'tomcat'

@@ -1,0 +1,3 @@
+app1:
+    - ['dev-template-lvm-mysql',INF-jian.xu,dev,TMCT,null,null,null,192.168.55.250,['DEV-esxi6.0']]
+    - ['dev-template-lvm-mysql',INF-jian.xu,dev,TMCT,null,null,null,192.168.55.130,['DEV-esxi6.0']]

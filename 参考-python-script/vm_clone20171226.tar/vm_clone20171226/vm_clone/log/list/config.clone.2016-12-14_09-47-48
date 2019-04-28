@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6-mysql-base',AM-AML_HENGSHENG-MYSQL1,dev,AM-AML_hengsheng-mysql1,"'mysql','AML_hengsheng'",null,null,null,['Dev-1']]

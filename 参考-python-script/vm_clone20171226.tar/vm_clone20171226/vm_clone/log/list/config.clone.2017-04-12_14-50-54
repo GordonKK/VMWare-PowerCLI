@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6-lvm-mysql-master-64.114',POA_EA_SCM-linjun.zhou,dev,TMCT,null,null,null,null,['DEV-esxi6.0']]

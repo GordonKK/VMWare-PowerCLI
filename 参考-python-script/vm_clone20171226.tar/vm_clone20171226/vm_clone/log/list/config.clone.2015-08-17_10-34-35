@@ -1,0 +1,42 @@
+app1:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.126,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.127,['ST3-new']]
+app2:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.128,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.129,['ST3-new']]
+app3:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.130,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.131,['ST3-new']]
+app4:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.100,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.101,['ST3-new']]
+app5:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.102,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.103,['ST3-new']]
+app6:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.80,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.81,['ST3-new']]
+app7:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.82,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.83,['ST3-new']]
+app8:  
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.84,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.85,['ST3-new']]
+app9:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.86,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.87,['ST3-new']]
+app10:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.88,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.89,['ST3-new']]
+app11:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.90,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.91,['ST3-new']]
+app12:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.92,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.93,['ST3-new']]
+app13:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.94,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.95,['ST3-new']]
+app14:    
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.96,['ST3-new']]
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,zabbix tomcat,null,null,10.200.151.97,['ST3-new']]

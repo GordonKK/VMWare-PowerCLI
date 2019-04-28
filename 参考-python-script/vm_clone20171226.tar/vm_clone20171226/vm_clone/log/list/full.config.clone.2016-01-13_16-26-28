@@ -1,0 +1,8 @@
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-155.30 -d '51.78' -H 10.10.51.78 -c st3 -i 10.200.155.30 -m TMCT-155.30 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-155.31 -d '51.79' -H 10.10.51.79 -c st3 -i 10.200.155.31 -m TMCT-155.31 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-156.30 -d '51.76' -H 10.10.51.76 -c st3 -i 10.200.156.30 -m TMCT-156.30 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-156.31 -d '51.80' -H 10.10.51.80 -c st3 -i 10.200.156.31 -m TMCT-156.31 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-155.22 -d '51.76' -H 10.10.51.76 -c st3 -i 10.200.155.22 -m TMCT-155.22 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-155.23 -d '51.80' -H 10.10.51.80 -c st3 -i 10.200.155.23 -m TMCT-155.23 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-156.22 -d '51.77' -H 10.10.51.77 -c st3 -i 10.200.156.22 -m TMCT-156.22 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-TMCT-156.25 -b ST3-TMCT-156.23 -d '51.79' -H 10.10.51.79 -c st3 -i 10.200.156.23 -m TMCT-156.23 -a 'zabbix' 'tomcat'

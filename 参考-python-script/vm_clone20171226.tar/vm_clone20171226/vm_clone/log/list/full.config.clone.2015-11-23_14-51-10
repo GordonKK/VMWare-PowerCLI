@@ -1,0 +1,2 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-TMCT-14.249 -d '250.5' -H 192.168.250.5 -c st2 -i 192.168.14.249 -m TMCT-14.249 -a 'zabbix' 'tomcat'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-TMCT-14.250 -d '250.13' -H 192.168.250.13 -c st2 -i 192.168.14.250 -m TMCT-14.250 -a 'zabbix' 'tomcat'

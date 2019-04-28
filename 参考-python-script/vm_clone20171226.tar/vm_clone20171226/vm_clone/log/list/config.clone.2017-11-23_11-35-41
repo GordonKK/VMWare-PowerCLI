@@ -1,0 +1,2 @@
+app1:
+    - ['template_win2008',ASC-MAM-riqian.ma,dev,TMCT,null,null,null,192.168.55.172,['DEV-esxi6.0']]

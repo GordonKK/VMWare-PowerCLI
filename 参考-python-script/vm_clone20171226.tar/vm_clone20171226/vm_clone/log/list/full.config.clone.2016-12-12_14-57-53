@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh7c-minimal -b DEV-RH7C-KVM-15.124 -d '7.231' -H 192.168.7.231 -c dev -i 192.168.15.124 -m rh7c-kvm-15.124 -a 'redhat','kvm'

@@ -1,0 +1,2 @@
+app1:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',test,dev,TMCT,null,null,null,null,['dev-esxi-6.0','dev-esxi-5.5']]  

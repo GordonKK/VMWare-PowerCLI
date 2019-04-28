@@ -1,0 +1,1 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-UX-laifang.chen-55.152 -d '192.168.121.42' -H 192.168.121.42 -c dev -i 192.168.55.152 -m TMCT-55.152

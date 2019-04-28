@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b SANDBOX-TMCT-46.74 -d '7.1' -H 192.168.7.1 -c sandbox -i 192.168.46.74 -m TMCT-46.74 -a 'zabbix' 'tomcat'

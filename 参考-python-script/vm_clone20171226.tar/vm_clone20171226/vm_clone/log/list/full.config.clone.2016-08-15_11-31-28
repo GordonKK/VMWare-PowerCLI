@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-Temp-mysql-new-70.222-master -b ST3-UBP-mycat-63.19 -d '51.52' -H 10.10.51.52 -c st3 -i 10.200.63.19 -m mycat-63.19

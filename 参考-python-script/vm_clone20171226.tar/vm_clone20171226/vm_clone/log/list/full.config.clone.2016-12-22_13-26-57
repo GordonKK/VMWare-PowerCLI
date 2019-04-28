@@ -1,0 +1,1 @@
+python get_clone.py -t Template-oracle-11new-64.239-master1 -b ST2-TEST1-9.170 -d 'datastore1 (4)' -H 192.168.70.19 -c st2 -i 192.168.9.170 -m test1-9.170 -a 'test'

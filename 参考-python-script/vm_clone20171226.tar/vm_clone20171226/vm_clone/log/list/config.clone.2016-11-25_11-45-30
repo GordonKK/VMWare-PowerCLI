@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6-lvm-mysql-master',VAS-MYSQL-slave,st2,vas-mysql-slave,"'mysql'",null,null,null,['Stage2-2-ESXI5.5']]

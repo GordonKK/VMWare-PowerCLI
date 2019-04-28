@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-lvm-mysql-master -b ST2-VAS-MYSQL-master-9.147 -d '250.19' -H 192.168.250.19 -c st2 -i 192.168.9.147 -m vas-mysql-master-9.147 -a 'mysql'

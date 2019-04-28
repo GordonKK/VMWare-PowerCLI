@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-Win2K8_x64-63.31-1 -b DEV-TMCT-47.53 -d '68.175' -H 192.168.68.175 -c dev -i 192.168.47.53 -m TMCT-47.53

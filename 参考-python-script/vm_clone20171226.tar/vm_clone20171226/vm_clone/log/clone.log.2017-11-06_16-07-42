@@ -1,0 +1,55 @@
+2017-11-06_16-07-42
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-POA-erlin.zhang-55.73
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.73
+vm_hostname          is    TMCT-55.73
+datastore free space is    5130.77 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [############                                                ] 21%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###################################                         ] 59%Percent: [################################################            ] 80%Percent: [############################################################] 100%
+
+VM DEV-POA-erlin.zhang-55.73 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x108d1c90>
+Now running init
+DEV-POA-erlin.zhang-55.73 init sucess
+DEV-POA-erlin.zhang-55.73 clone and init  take  206 seconds
+DEV-POA-erlin.zhang-55.73 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-POA-erlin.zhang-55.144
+the_stage            is    dev
+host_name            is    192.168.121.46
+datastore_name       is    192.168.121.46
+app                  is    None
+vm_ip                is    192.168.55.144
+vm_hostname          is    TMCT-55.144
+datastore free space is    5204.48 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#########                                                   ] 16%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################    ] 94%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM DEV-POA-erlin.zhang-55.144 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x134829d0>
+Now running init
+DEV-POA-erlin.zhang-55.144 init sucess
+DEV-POA-erlin.zhang-55.144 clone and init  take  198 seconds
+DEV-POA-erlin.zhang-55.144 reboot now
+dev 2 ['DEV-esxi6.0']
+====================================================================================================

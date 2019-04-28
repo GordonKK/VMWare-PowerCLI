@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh7c-minimal-9.168 -b DEV-TEST-15.120 -d '68.96' -H 192.168.68.96 -c dev -i 192.168.15.120 -m test-15.120 -a 'test'

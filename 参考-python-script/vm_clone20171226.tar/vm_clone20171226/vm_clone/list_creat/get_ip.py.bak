@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+#coding=utf8
+def ip2int(s):
+    list_AA = [int(i) for i in s.split('.')]
+    return (list_AA[0] << 24) | (list_AA[1] << 16) | (list_AA[2] << 8) | list_AA[3]
+#def sort_ip
+ip_on = 'st1.list st2.list st3.list sandbox.list dev.list'
+ip_dis = 'st3_disconn.list st1_st2_sb_disconn.list st3_disconn.list'
+ip_off = 'st3_off.list st1_st2_sb_dev_off.list'
+ip_no_vmtool = 'stat_no_vmtool.list'
+ip_physical = 'stat_physical.list'

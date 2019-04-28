@@ -1,0 +1,9 @@
+app1:
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]
+app2:
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]
+app3:
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,null,null,null,null,null]

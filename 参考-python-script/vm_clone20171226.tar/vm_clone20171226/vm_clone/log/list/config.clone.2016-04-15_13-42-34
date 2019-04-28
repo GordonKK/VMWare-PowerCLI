@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TMCT,st3,TMCT,"'zabbix' 'tomcat'",null,null,10.200.150.23,['ST3-new']]

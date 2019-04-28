@@ -1,0 +1,5 @@
+8,ST2-apache-29-14.181,192.168.14.1,rhel5_64Guest
+8,ST2-apache-30-14.182,192.168.14.182,rhel5_64Guest
+8,ST2-B2BI-14.160,192.168.14.160,winNetEnterpriseGuest
+8,ST2-cloudpos-14.107,192.168.14.107,rhel6_64Guest
+8,ST2-cpspe-db-14.121,192.168.14.121,rhel6_64Guest

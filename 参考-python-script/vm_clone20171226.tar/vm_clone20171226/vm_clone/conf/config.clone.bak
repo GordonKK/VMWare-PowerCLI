@@ -1,0 +1,8 @@
+app1:
+    - ['Template-mysql-5.6-64.60-master',VAS-MYSQL,dev,null,"",null,null,null,['Dev-2-ESXI5.5']]
+app2:
+    - ['Template-mysql-5.6-64.60-master',VAS-MYSQL,st2,null,"",null,null,null,['Stage2-2-ESXI5.5']]
+    - ['Template-mysql-5.6-64.60-master',VAS-MYSQL,st2,null,"",null,null,null,['Stage2-2-ESXI5.5']]
+app3:
+    - ['ST3-Temp-mysql-new-70.222-master',VAS-MYSQL,st3,null,"",null,null,10.200.63.143,['ST3-5']]
+    - ['ST3-Temp-mysql-new-70.222-master',VAS-MYSQL,st3,null,"",null,null,10.200.63.144,['ST5-5']]

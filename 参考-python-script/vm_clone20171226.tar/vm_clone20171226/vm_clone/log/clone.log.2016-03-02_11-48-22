@@ -1,0 +1,24 @@
+2016-03-02_11-48-22
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.76
+the_stage            is    st2
+host_name            is    192.168.70.105
+datastore_name       is    datastore1 (16)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.76
+vm_hostname          is    TMCT-9.76
+Error,vm not found Template-14.251-RHEL6.5_x64
+template_name_v is None
+Error:  clone  failed 
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.77
+the_stage            is    st2
+host_name            is    192.168.250.9
+datastore_name       is    250.9
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.77
+vm_hostname          is    TMCT-9.77
+Error,vm not found Template-14.251-RHEL6.5_x64
+template_name_v is None
+Error:  clone  failed 
+====================================================================================================

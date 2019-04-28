@@ -1,0 +1,36 @@
+stage-01,,192.168.63.236,,windows7Server64Guest,ST2-win2K8-Vc002-63.236
+stage-01,,192.168.65.1,,rhel5_64Guest,ST1-tomcat-xujingchu-65.1
+stage-01,,192.168.65.10,,rhel5_64Guest,ST1-tomcat-xujingchu-65.10
+stage-01,,192.168.65.119,,rhel6_64Guest,ST1-RHEL6.5_x64-65.119
+stage-01,,192.168.65.12,,rhel5_64Guest,ST1-tomcat-xujingchu-65.12
+stage-01,,192.168.65.18,,rhel5_64Guest,ST1-tomcat-xujingchu-65.18
+stage-01,,192.168.65.248,,winLonghorn64Guest,IDC-monitor-65.248
+stage-01,,192.168.65.249,,centos64Guest,VMware Data Recovery-65.249
+stage-01,,192.168.65.250,,sles11_64Guest,vSphere Replication Appliance-63.250
+stage-01,,192.168.65.251,,centos64Guest,VMware Data Recovery-65.251
+stage-01,,192.168.65.252,,rhel6_64Guest,rhel-temple-2014-4-17
+stage-01,,192.168.65.29,,rhel5_64Guest,st1-tomcat-xujingchu-65.29
+stage-01,,192.168.65.30,,rhel5_64Guest,ST1-tomcat-xujingchu-65.30
+stage-01,,192.168.65.34,,rhel5_64Guest,ST1-tomcat-xujingchu-65.34
+stage-01,,192.168.65.40,,rhel5_64Guest,ST1-tomcat-xujingchu-65.40
+stage-01,,192.168.65.41,,rhel6_64Guest,ST1-ebd-tibco-65.41
+stage-01,,192.168.65.56,,rhel5_64Guest,ST1-tomcat-xujingchu-65.56
+stage-01,,192.168.65.57,,rhel5_64Guest,ST1-tomcat-xujingchu-65.57
+stage-01,,192.168.65.6,,rhel5_64Guest,ST1-tomcat-xujingchu-65.6
+stage-01,,192.168.65.60,,rhel5_64Guest,ST1-tomcat-xujingchu-65.60
+stage-01,,192.168.65.61,,rhel5_64Guest,ST1-tomcat-xujingchu-65.61
+stage-01,,192.168.65.62,,rhel5_64Guest,ST1-tomcat-xujingchu-65.62
+stage-01,,192.168.65.63,,rhel5_64Guest,ST1-tomcat-xujingchu-65.63
+stage-01,,192.168.65.64,,rhel5_64Guest,ST1-tomcat-xujingchu-65.64
+stage-01,,192.168.65.65,,rhel5_64Guest,ST1-cps-tibco-65.65
+stage-01,,192.168.65.66,,rhel5_64Guest,ST1-quartz-tibco-65.66
+stage-01,,192.168.65.67,,rhel5_64Guest,ST1-tomcat-xujingchu-65.67
+stage-01,,192.168.65.68,,rhel5_64Guest,ST1-tomcat-xujingchu-65.68
+stage-01,,192.168.65.69,,rhel5_64Guest,ST1-tomcat-xujingchu-65.69
+stage-01,,192.168.65.7,,rhel5_64Guest,ST1-tomcat-xujingchu-65.7
+stage-01,,192.168.65.73,,rhel6_64Guest,ST1-tomcat-xujingchu-65.73
+stage-01,,192.168.65.77,,rhel6_64Guest,ST1-tomcat-xujingchu-65.77
+stage-01,,192.168.65.91,,rhel6_64Guest,ST1-weblogic-65.91
+stage-01,,192.168.65.92,,rhel6_64Guest,ST1-weblogic-65.92
+stage-01,,192.168.65.93,,rhel6_64Guest,ST1-weblogic-center-65.93
+stage-01,,192.168.65.95,,rhel5_64Guest,ST1-TBCO-65.95

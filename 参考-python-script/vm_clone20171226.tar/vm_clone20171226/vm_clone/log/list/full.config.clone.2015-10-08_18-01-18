@@ -1,0 +1,1 @@
+python get_clone.py -t st2-tms01-14.100 -b ST2-TMCT-14.126 -d '250.13' -H 192.168.250.13 -c st2 -i 192.168.14.126 -m TMCT-14.126 -a 'zabbix' 'tomcat'

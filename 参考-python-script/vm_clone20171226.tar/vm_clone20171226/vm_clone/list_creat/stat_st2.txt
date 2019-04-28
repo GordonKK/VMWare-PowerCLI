@@ -1,0 +1,3 @@
+stage-02,tibco,192.168.64.72,public,物理机,7222,
+tomcat,app-ctmp.war,192.168.138.40,/opt/oracle/tomcat/tomcatServer83-1/webapps,ctmp
+#stage-02,apache,192.168.63.29,public,rhel4_64Guest,ST2-SCM-CONTROL-63.219,老的中控,关机放着

@@ -1,0 +1,2 @@
+app1:    
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',COLLECTD-TEST,dev,collectd02,null,null,null,null,['Dev-Storage-ESXI5.5']]

@@ -1,0 +1,24 @@
+2016-11-25_11-47-27
+template_name        is    ST3-template-7
+base_name            is    ST1-BOOTSTRAP-RH7-65.11
+the_stage            is    st1
+host_name            is    192.168.70.221
+datastore_name       is    datastore1 (100)
+app                  is    ['rh7']
+vm_ip                is    192.168.65.11
+vm_hostname          is    bootstrap-rh7-65.11
+Error,vm not found ST3-template-7
+template_name_v is None
+Error:  clone  failed 
+st1 1 ['Stage1-2-ESXI5.5']
+192.168.65.1 already in use
+192.168.65.2 already in use
+192.168.65.3 already in use
+192.168.65.4 already in use
+192.168.65.5 already in use
+192.168.65.6 already in use
+192.168.65.7 already in use
+192.168.65.8 already in use
+192.168.65.9 already in use
+192.168.65.10 already in use
+====================================================================================================

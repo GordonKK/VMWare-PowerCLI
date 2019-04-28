@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-CFS研发部银行通道&代扣组-jianguo.zou-55.1 -d '7.11' -H 192.168.7.11 -c dev -i 192.168.55.1 -m TMCT-55.1

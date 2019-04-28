@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-splunkheader-63.124 -d '7.113' -H 192.168.7.113 -c st2 -i 192.168.63.124 -m splunkheader-63.124 -a 'zabbix'

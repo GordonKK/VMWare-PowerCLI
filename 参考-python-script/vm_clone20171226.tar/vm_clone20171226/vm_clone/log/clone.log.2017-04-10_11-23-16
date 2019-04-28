@@ -1,0 +1,34 @@
+2017-04-10_11-23-16
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-63.116
+the_stage            is    st2
+host_name            is    192.168.7.234
+datastore_name       is    7.234-2
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.63.116
+vm_hostname          is    TMCT-63.116
+datastore free space is    1860.27 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [############                                                ] 21%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [#######################################                     ] 65%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST2-TMCT-63.116 successfully clone
+ST2-TMCT-63.116
+vlan 63
+set vlan  vlan 63
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 12 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x17b87e50>
+Now running init
+ST2-TMCT-63.116 init sucess
+ST2-TMCT-63.116 clone and init  take  214 seconds
+ST2-TMCT-63.116 reboot now
+st2 1 ['ST2-esxi6.0']
+-63.116
+TMCT
+====================================================================================================

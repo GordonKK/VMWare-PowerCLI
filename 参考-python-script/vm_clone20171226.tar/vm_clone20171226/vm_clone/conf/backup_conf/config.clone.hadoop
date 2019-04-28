@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6-test',ST2-Hadoop-tyqj-01-test,st3,hadoop-tyqj]

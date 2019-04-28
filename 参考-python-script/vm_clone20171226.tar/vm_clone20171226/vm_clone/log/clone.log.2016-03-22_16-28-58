@@ -1,0 +1,32 @@
+2016-03-22_16-28-58
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    DEV-TMCT-47.251
+the_stage            is    dev
+host_name            is    tomcat
+datastore_name       is    datastore1 (41)
+app                  is    ['nyll']
+vm_ip                is    192.168.47.251
+vm_hostname          is    TMCT-47.251
+Error,vm not found Template-14.251-RHEL6.5_x64
+template_name_v is None
+Error:  clone  failed 
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    DEV-TMCT-47.252
+the_stage            is    dev
+host_name            is    tomcat
+datastore_name       is    68.171
+app                  is    ['nyll']
+vm_ip                is    192.168.47.252
+vm_hostname          is    TMCT-47.252
+Error,vm not found Template-14.251-RHEL6.5_x64
+template_name_v is None
+Error:  clone  failed 
+192.168.15.158 already in use
+192.168.47.105 already in use
+192.168.47.107 already in use
+192.168.47.179 already in use
+192.168.15.158 already in use
+192.168.47.105 already in use
+192.168.47.107 already in use
+192.168.47.179 already in use
+====================================================================================================

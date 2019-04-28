@@ -1,0 +1,1 @@
+python get_clone.py -t template_win2008 -b DEV-POA_EA_SCM-linjun.zhou-55.211 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.211 -m TMCT-55.211

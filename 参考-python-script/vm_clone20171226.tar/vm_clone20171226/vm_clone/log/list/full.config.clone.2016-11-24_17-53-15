@@ -1,0 +1,2 @@
+python get_clone.py -t Template-mysql-5.6-64.60-master -b ST2-apache-9.142 -d 'datastore1 (115)' -H 192.168.70.241 -c st2 -i 192.168.9.142 -m apache-9.142 -a 'zabbix'
+python get_clone.py -t Template-mysql-5.6-64.60-master -b ST2-apache-9.143 -d 'datastore1 (38)' -H 192.168.70.103 -c st2 -i 192.168.9.143 -m apache-9.143 -a 'zabbix'

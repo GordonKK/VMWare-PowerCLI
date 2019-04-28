@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh6c-minimal-9.169',TIBCO-TEST1,dev,tibco-test1,"'tibco','test'",null,null,null,['Dev-1']]

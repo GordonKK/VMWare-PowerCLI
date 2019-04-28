@@ -1,0 +1,2 @@
+app1:
+    - ['dev-template-oracle-11g',AML-mingwei.sun,dev,TMCT,null,null,null,192.168.55.155,['DEV-esxi6.0']]

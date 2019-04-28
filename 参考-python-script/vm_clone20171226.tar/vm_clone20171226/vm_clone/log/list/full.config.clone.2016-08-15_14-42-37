@@ -1,0 +1,1 @@
+python get_clone.py -t TEMP-RHEL7.2-81.76 -b DEV-kvmhost02-15.35 -d 'datastore1 (33)' -H 192.168.70.71 -c dev -i 192.168.15.35 -m kvmtest02-15.35

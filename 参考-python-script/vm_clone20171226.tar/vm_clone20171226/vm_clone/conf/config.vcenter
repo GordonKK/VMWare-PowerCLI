@@ -1,0 +1,41 @@
+st1:
+    ip: 10.10.50.250
+    user: elm
+    password: admin4elm
+st2:
+    ip: 192.168.63.90
+    user: elm
+    password: admin4elm
+st3:
+    ip: 10.10.50.250
+    user: elm
+    password: admin4elm
+nj:
+    ip: 192.168.126.54
+    user: administrator@vsphere.local
+    password: Sec@99bill
+database:
+    st2:
+        ip: 192.168.63.92
+        dbname: VCDB-st2
+        port: 1433
+        user: lab
+        password: admin4elm
+    st3:
+        ip: 10.10.50.248
+        dbname: vcdb6vcdb
+        port: 1433
+        user: lab
+        password: admin4elm
+    st1:
+        ip: 10.10.50.248
+        dbname: vcdb6vcdb
+        port: 1433
+        user: lab
+        password: admin4elm
+    nj:
+        ip: 192.168.126.54
+        dbname: VIM_VCDB
+        port: 50848
+        user: lab
+        password: admin4elm

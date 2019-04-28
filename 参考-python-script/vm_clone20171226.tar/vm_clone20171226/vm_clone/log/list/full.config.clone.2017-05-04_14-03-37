@@ -1,0 +1,4 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-RM-bingguo.cao-55.223 -d '192.168.121.46' -H 192.168.121.46 -c dev -i 192.168.55.223 -m TMCT-55.223
+python get_clone.py -t dev-temlate-47.219 -b DEV-RM-bingguo.cao-55.224 -d '192.168.121.50' -H 192.168.121.50 -c dev -i 192.168.55.224 -m TMCT-55.224
+python get_clone.py -t dev-temlate-47.219 -b DEV-RM-bingguo.cao-55.226 -d '192.168.121.48' -H 192.168.121.48 -c dev -i 192.168.55.226 -m TMCT-55.226
+python get_clone.py -t dev-temlate-47.219 -b DEV-RM-bingguo.cao-55.227 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.227 -m TMCT-55.227

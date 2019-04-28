@@ -1,0 +1,5 @@
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-cdh-150.78 -d 'datastore1 (8)' -H 10.10.51.101 -c st3 -i 10.200.150.78 -m TMCT-150.78 -a 'zabbix'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-cdh-150.76 -d 'datastore1 (9)' -H 10.10.51.103 -c st3 -i 10.200.150.76 -m TMCT-150.76 -a 'zabbix'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-cdh-150.77 -d 'datastore1 (1)' -H 10.10.51.60 -c st3 -i 10.200.150.77 -m TMCT-150.77 -a 'zabbix'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-cdh-150.74 -d 'datastore1 (1)' -H 10.10.51.60 -c st3 -i 10.200.150.74 -m TMCT-150.74 -a 'zabbix'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-cdh-150.75 -d 'datastore1 (9)' -H 10.10.51.103 -c st3 -i 10.200.150.75 -m TMCT-150.75 -a 'zabbix'

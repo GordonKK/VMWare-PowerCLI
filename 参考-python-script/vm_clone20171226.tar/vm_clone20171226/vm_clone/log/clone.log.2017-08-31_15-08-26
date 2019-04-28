@@ -1,0 +1,103 @@
+2017-08-31_15-08-26
+template_name        is    ST3-Template-TMCT.70.10
+base_name            is    ST3-TMCT-197.54
+the_stage            is    st3
+host_name            is    10.200.123.46
+datastore_name       is    10.200.123.46
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.197.54
+vm_hostname          is    TMCT-197.54
+datastore free space is    5531.78 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##################                                          ] 31%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST3-TMCT-197.54 successfully clone
+set vlan  vlan 197
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 32 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1fa6a850>
+Now running init
+ST3-TMCT-197.54 init sucess
+ST3-TMCT-197.54 clone and init  take  117 seconds
+ST3-TMCT-197.54 reboot now
+template_name        is    ST3-Template-TMCT.70.10
+base_name            is    ST3-TMCT-197.55
+the_stage            is    st3
+host_name            is    10.200.123.38
+datastore_name       is    10.200.123.38
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.197.55
+vm_hostname          is    TMCT-197.55
+datastore free space is    5544.85 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##################                                          ] 31%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [############################                                ] 48%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [#################################                           ] 55%Percent: [####################################################        ] 87%Percent: [############################################################] 100%
+
+VM ST3-TMCT-197.55 successfully clone
+set vlan  vlan 197
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 32 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xb7e7ad0>
+Now running init
+ST3-TMCT-197.55 init sucess
+ST3-TMCT-197.55 clone and init  take  113 seconds
+ST3-TMCT-197.55 reboot now
+template_name        is    ST3-Template-TMCT.70.10
+base_name            is    ST3-TMCT-197.56
+the_stage            is    st3
+host_name            is    10.200.123.42
+datastore_name       is    10.200.123.42
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.197.56
+vm_hostname          is    TMCT-197.56
+datastore free space is    5554.19 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##################                                          ] 31%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST3-TMCT-197.56 successfully clone
+set vlan  vlan 197
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 32 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x16330050>
+Now running init
+ST3-TMCT-197.56 init sucess
+ST3-TMCT-197.56 clone and init  take  117 seconds
+ST3-TMCT-197.56 reboot now
+template_name        is    ST3-Template-TMCT.70.10
+base_name            is    ST3-TMCT-197.57
+the_stage            is    st3
+host_name            is    10.200.123.10
+datastore_name       is    10.200.123.10
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.197.57
+vm_hostname          is    TMCT-197.57
+datastore free space is    5464.76 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [############################                                ] 47%Percent: [##############################                              ] 50%Percent: [################################                            ] 54%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM ST3-TMCT-197.57 successfully clone
+set vlan  vlan 197
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 24 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x5bbe050>
+Now running init
+ST3-TMCT-197.57 init sucess
+ST3-TMCT-197.57 clone and init  take  65 seconds
+ST3-TMCT-197.57 reboot now
+st3 4 ['ST3-7']
+====================================================================================================

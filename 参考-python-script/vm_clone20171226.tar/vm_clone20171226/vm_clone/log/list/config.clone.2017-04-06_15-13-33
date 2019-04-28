@@ -1,0 +1,2 @@
+app1:
+    - ['Template-14.251-RHEL6.5_x64','dev-tomcat-47.146',dev,'dev-tomcat-47.146',"'zabbix' 'tomcat'",null,null,'192.168.47.146',null]

@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.215 -d '250.17' -H 192.168.250.17 -c dev -i 192.168.47.215 -m TMCT-47.215

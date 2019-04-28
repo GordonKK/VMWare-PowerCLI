@@ -1,0 +1,2 @@
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TMCT-150.60 -d '51.31' -H 10.10.51.31 -c st3 -i 10.200.150.60 -m TMCT-150.60 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST3-Template-RHEL6.5_x64_4-70.200 -b ST3-TMCT-150.61 -d '51.36' -H 10.10.51.36 -c st3 -i 10.200.150.61 -m TMCT-150.61 -a 'zabbix' 'tomcat'

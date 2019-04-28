@@ -1,0 +1,3 @@
+app1:
+    - ['ST3-Template-apache-os6.5',apache,st3,apache,"'zabbix'",null,null,10.200.51.40,['ST3-new']]
+    - ['ST3-Template-apache-os6.5',apache,st3,apache,"'zabbix'",null,null,10.200.51.41,['ST3-new']]

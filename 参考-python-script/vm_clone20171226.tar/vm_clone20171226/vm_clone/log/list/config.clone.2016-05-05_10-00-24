@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',cdh,st3,TMCT,"'zabbix'",null,null,10.200.150.74,['ST3-6']]

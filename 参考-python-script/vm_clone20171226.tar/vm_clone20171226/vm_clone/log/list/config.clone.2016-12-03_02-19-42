@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh7c-minimal-9.168',TEST,dev,test,"'test'",null,null,null,['Dev-1']]

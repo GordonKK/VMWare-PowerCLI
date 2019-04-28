@@ -1,0 +1,1 @@
+python get_clone.py -t ST1-TOMCAT-65.155 -b ST1-BOOTSTRAP-TCA-65.34 -d 'datastore1 (100)' -H 192.168.70.221 -c st1 -i 192.168.65.34 -m bootstrap-tca-65.34 -a 'tca'

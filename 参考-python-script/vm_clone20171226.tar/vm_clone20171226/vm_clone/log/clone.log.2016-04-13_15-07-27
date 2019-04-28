@@ -1,0 +1,14 @@
+2016-04-13_15-07-27
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-7.8
+the_stage            is    st3
+host_name            is    10.10.51.89
+datastore_name       is    datastore1
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.7.8
+vm_hostname          is    TMCT-7.8
+datastore free space is    1577.35 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [###################                                         ] 33%

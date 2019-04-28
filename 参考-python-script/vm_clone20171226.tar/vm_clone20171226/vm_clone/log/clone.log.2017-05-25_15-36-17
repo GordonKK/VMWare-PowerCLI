@@ -1,0 +1,53 @@
+2017-05-25_15-36-17
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-COC-jian.li.coc-55.233
+the_stage            is    dev
+host_name            is    192.168.121.44
+datastore_name       is    192.168.121.44
+app                  is    None
+vm_ip                is    192.168.55.233
+vm_hostname          is    TMCT-55.233
+datastore free space is    5452.09 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 28%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [######################################################      ] 91%Percent: [############################################################] 100%
+
+VM DEV-COC-jian.li.coc-55.233 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x14e40210>
+Now running init
+DEV-COC-jian.li.coc-55.233 init sucess
+DEV-COC-jian.li.coc-55.233 clone and init  take  187 seconds
+DEV-COC-jian.li.coc-55.233 reboot now
+dev 1 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.225 already in use
+192.168.55.233
+====================================================================================================

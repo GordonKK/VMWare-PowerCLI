@@ -1,0 +1,31 @@
+2016-04-25_11-24-36
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-21.21
+the_stage            is    st3
+host_name            is    10.10.51.48
+datastore_name       is    51.48
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.21.21
+vm_hostname          is    TMCT-21.21
+datastore free space is    808.54 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [##########                                                  ] 17%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%
+Error failed  clone : ST3-TMCT-21.21 用户取消了任务。
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-34.343
+the_stage            is    st3
+host_name            is    10.10.51.42
+datastore_name       is    51.42
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.34.343
+vm_hostname          is    TMCT-34.343
+datastore free space is    815.32 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [###################                                         ] 33%Percent: [####################                                        ] 34%Percent: [#####################                                       ] 35%Percent: [#####################                                       ] 35%
+Error failed  clone : ST3-TMCT-34.343 用户取消了任务。
+st3 2 ['ST3-4']
+====================================================================================================

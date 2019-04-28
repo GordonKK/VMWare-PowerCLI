@@ -1,0 +1,1 @@
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.65 -d '7.52' -H 192.168.7.52 -c st2 -i 192.168.9.65 -m TMCT-9.65 -a 'zabbix' 'tomcat'

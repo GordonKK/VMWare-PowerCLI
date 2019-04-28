@@ -1,0 +1,1 @@
+python get_clone.py -t dev-template-oracle-11g -b DEV-AML-mingwei.sun-55.155 -d '192.168.121.46' -H 192.168.121.46 -c dev -i 192.168.55.155 -m TMCT-55.155

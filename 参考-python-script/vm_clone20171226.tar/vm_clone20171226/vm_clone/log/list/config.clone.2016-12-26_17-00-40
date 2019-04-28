@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6.5_x64_4-70.200',TOMCAT,st1,ST1-TOMCAT,"'zabbix' 'tomcat'",192.168.70.177,192.168.70.177,192.168.71.12,['Stage1-2-ESXI5.5']]

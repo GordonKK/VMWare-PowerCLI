@@ -1,0 +1,4 @@
+app1:
+    - ['Template-Rhel7.1_x64-64.244',elk-9.247,st2,elk.9.247,"",null,null,192.168.9.247,['ST2-esxi6.0']]
+    - ['Template-Rhel7.1_x64-64.244',elk-9.248,st2,elk.9.248,"",null,null,192.168.9.248,['ST2-esxi6.0']]
+

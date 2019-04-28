@@ -1,0 +1,46 @@
+2016-04-11_14-20-01
+template_name        is    ST3-Template-RHEL6.5-JDK1.7_x64
+base_name            is    ST3-TMCT-151.154
+the_stage            is    st3
+host_name            is    10.10.51.89
+datastore_name       is    datastore1
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.151.154
+vm_hostname          is    TMCT-151.154
+datastore free space is    1587.51 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [###################                                         ] 33%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [############################                                ] 47%Percent: [############################                                ] 48%Percent: [##############################                              ] 50%Percent: [###############################                             ] 52%Percent: [################################                            ] 54%Percent: [##################################                          ] 58%Percent: [#######################################################     ] 93%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM ST3-TMCT-151.154 successfully clone
+set vlan  vlan 151
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 32 seconds
+can not login ST3-TMCT-151.154
+Error: login ST3-TMCT-151.154 failed with password 111111
+template_name        is    ST3-Template-RHEL6.5-JDK1.7_x64
+base_name            is    ST3-TMCT-151.155
+the_stage            is    st3
+host_name            is    10.10.51.34
+datastore_name       is    51.34
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.151.155
+vm_hostname          is    TMCT-151.155
+datastore free space is    387.89 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+Percent: [######                                                      ] 10%Percent: [###################                                         ] 33%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 45%Percent: [############################                                ] 48%Percent: [#############################                               ] 49%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [#################################                           ] 55%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM ST3-TMCT-151.155 successfully clone
+set vlan  vlan 151
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 40 seconds
+can not login ST3-TMCT-151.155
+Error: login ST3-TMCT-151.155 failed with password 111111
+====================================================================================================

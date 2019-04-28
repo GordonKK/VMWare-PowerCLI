@@ -1,0 +1,29 @@
+2017-09-25_19-58-49
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-ASC-MAM-chao.guo-55.126
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.126
+vm_hostname          is    TMCT-55.126
+datastore free space is    5266.50 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-ASC-MAM-chao.guo-55.126 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x18615fd0>
+Now running init
+DEV-ASC-MAM-chao.guo-55.126 init sucess
+DEV-ASC-MAM-chao.guo-55.126 clone and init  take  193 seconds
+DEV-ASC-MAM-chao.guo-55.126 reboot now
+dev 1 ['DEV-esxi6.0']
+====================================================================================================

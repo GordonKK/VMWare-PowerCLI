@@ -1,0 +1,2 @@
+app1:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',opennebula03,dev,nebula03,null,null,null,192.168.55.223,['Dev-Storage-ESXI5.5']]

@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6c-minimal-9.169 -b DEV-TIBCO-TEST1-15.121 -d '68.92' -H 192.168.68.92 -c dev -i 192.168.15.121 -m tibco-test1-15.121 -a 'tibco','test'

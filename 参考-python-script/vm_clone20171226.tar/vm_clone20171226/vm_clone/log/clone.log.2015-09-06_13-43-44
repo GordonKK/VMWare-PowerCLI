@@ -1,0 +1,16 @@
+2015-09-06_13-43-44
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    Dev-DTS-Oracle11-47.83
+base_name            is    DEV-DTS-oracle-47.86
+the_stage            is    dev
+host_name            is    192.168.68.119
+datastore_name       is    68.119
+app                  is    None
+vm_ip                is    192.168.47.86
+vm_hostname          is    DTS-oracle-47.86
+datastore free space is    2051.36 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Error: the vm DEV-DTS-oracle-47.86 already exists 
+Error:  clone  failed 
+====================================================================================================

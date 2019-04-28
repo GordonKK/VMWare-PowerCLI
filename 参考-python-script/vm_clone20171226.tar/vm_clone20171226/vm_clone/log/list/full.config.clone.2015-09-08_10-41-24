@@ -1,0 +1,1 @@
+python get_clone.py -t NJ-dts-TMCT-126.198 -b NJ-TMCT-126.71 -d '126.34' -H 192.168.126.34 -c nj -i 192.168.126.71 -m TMCT-126.71

@@ -1,0 +1,2 @@
+python get_clone.py -t Template-Rhel7.1_x64-64.244 -b ST2-elk-9.247 -d '68.13-1' -H 192.168.68.13 -c st2 -i 192.168.9.247 -m elk-9.247 -a 
+python get_clone.py -t Template-Rhel7.1_x64-64.244 -b ST2-elk-9.248 -d '1-0' -H 192.168.68.1 -c st2 -i 192.168.9.248 -m elk-9.248 -a 

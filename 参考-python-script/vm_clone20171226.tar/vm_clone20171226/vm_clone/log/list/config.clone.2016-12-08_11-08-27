@@ -1,0 +1,3 @@
+app1:
+    - ['template-fedora25-15.116',HUANGYY-WS1,dev,huangyy-ws1,"'redhat','ws1'",null,null,null,['Dev-1']]
+

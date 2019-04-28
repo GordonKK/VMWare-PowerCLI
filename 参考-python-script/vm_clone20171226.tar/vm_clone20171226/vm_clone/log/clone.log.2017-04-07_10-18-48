@@ -1,0 +1,109 @@
+2017-04-07_10-18-48
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.210
+the_stage            is    st2
+host_name            is    192.168.70.205
+datastore_name       is    datastore1 (90)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.210
+vm_hostname          is    TMCT-9.210
+datastore free space is    1496.77 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#####                                                       ] 9%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [############################                                ] 47%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [##########################################                  ] 70%Percent: [########################################################### ] 99%Percent: [############################################################] 100%
+
+VM ST2-TMCT-9.210 successfully clone
+ST2-TMCT-9.210
+vlan 9
+set vlan  vlan 9
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 12 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x222ba350>
+Now running init
+ST2-TMCT-9.210 init sucess
+ST2-TMCT-9.210 clone and init  take  232 seconds
+ST2-TMCT-9.210 reboot now
+st2
+template_name        is    Template-47.219-jdk1.7-RHEL6.5_x64
+base_name            is    ST2-TMCT-9.211
+the_stage            is    st2
+host_name            is    192.168.68.183
+datastore_name       is    datastore1 (7)
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.9.211
+vm_hostname          is    TMCT-9.211
+datastore free space is    938.12 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+
+Error failed  clone : ST2-TMCT-9.211 指定的参数不正确: spec.location.host
+ST2-TMCT-9.211
+vlan 9
+st2 2 ['ST2-esxi6.0', 'ST2-esxi5.5']
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.210
+-9.210
+TMCT
+192.168.9.104 already in use
+192.168.9.105 already in use
+192.168.9.106 already in use
+192.168.9.107 already in use
+192.168.9.108 already in use
+192.168.9.109 already in use
+192.168.9.110 already in use
+192.168.9.111 already in use
+192.168.9.112 already in use
+192.168.9.113 already in use
+192.168.9.114 already in use
+192.168.9.135 already in use
+192.168.9.146 already in use
+192.168.9.150 already in use
+192.168.9.171 already in use
+192.168.9.172 already in use
+192.168.9.178 already in use
+192.168.9.179 already in use
+192.168.9.180 already in use
+192.168.9.181 already in use
+192.168.9.182 already in use
+192.168.9.183 already in use
+192.168.9.184 already in use
+192.168.9.185 already in use
+192.168.9.186 already in use
+192.168.9.187 already in use
+192.168.9.188 already in use
+192.168.9.211
+-9.211
+TMCT
+====================================================================================================

@@ -1,0 +1,61 @@
+2017-05-22_11-12-16
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-michael.gu-55.51
+the_stage            is    dev
+host_name            is    192.168.121.50
+datastore_name       is    192.168.121.50
+app                  is    None
+vm_ip                is    192.168.55.51
+vm_hostname          is    TMCT-55.51
+datastore free space is    5521.37 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#############                                               ] 22%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [######################################                      ] 64%Percent: [############################################                ] 74%Percent: [############################################################] 100%
+
+VM DEV-RM-michael.gu-55.51 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 4 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xbc0c090>
+Now running init
+DEV-RM-michael.gu-55.51 init sucess
+DEV-RM-michael.gu-55.51 clone and init  take  236 seconds
+DEV-RM-michael.gu-55.51 reboot now
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-RM-michael.gu-55.52
+the_stage            is    dev
+host_name            is    192.168.121.44
+datastore_name       is    192.168.121.44
+app                  is    None
+vm_ip                is    192.168.55.52
+vm_hostname          is    TMCT-55.52
+datastore free space is    5430.51 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [############                                                ] 21%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [####################################################        ] 87%Percent: [############################################################] 100%
+
+VM DEV-RM-michael.gu-55.52 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xdc95590>
+Now running init
+DEV-RM-michael.gu-55.52 init sucess
+DEV-RM-michael.gu-55.52 clone and init  take  187 seconds
+DEV-RM-michael.gu-55.52 reboot now
+dev 2 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.52
+====================================================================================================

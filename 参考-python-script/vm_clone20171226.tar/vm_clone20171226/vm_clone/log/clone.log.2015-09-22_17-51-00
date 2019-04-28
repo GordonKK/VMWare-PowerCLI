@@ -1,0 +1,14 @@
+2015-09-22_17-51-00
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    Template-14.251-RHEL6.5_x64
+base_name            is    SANDBOX-TMCT-46.73
+the_stage            is    sandbox
+host_name            is    192.168.250.3
+datastore_name       is    250.3
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.46.73
+vm_hostname          is    TMCT-46.73
+Error,vm not found Template-14.251-RHEL6.5_x64
+template_name_v is None
+Error:  clone  failed 
+====================================================================================================

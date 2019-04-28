@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-Temp-mysql-new-70.222-master -b ST3-UBP-mysql-master-63.37 -d '51.53' -H 10.10.51.53 -c st3 -i 10.200.63.37 -m mysql-63.37

@@ -1,0 +1,3 @@
+app1:
+    - ['template-rh6c-minimal',REDIS-MIGRATOR1,dev,redis-migrator1,"'redis','migrator'",null,null,null,['Dev-1']]
+

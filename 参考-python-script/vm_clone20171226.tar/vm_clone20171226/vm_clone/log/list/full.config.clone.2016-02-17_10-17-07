@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-15.223 -d 'datastore1 (6)' -H 192.168.68.181 -c dev -i 192.168.15.223 -m TMCT-15.223

@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-php-5.4.16-nginx-63.199 -b DEV-TMCT-47.201 -d '68.191' -H 192.168.68.191 -c dev -i 192.168.47.201 -m TMCT-47.201

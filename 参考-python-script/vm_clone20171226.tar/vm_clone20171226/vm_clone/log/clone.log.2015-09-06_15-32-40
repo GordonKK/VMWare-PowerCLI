@@ -1,0 +1,104 @@
+2015-09-06_15-32-40
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-dts-TMCT-126.140
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.140
+vm_hostname          is    TMCT-126.140
+datastore free space is    2014.67 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [######################                                      ] 38%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [#################################                           ] 55%Percent: [######################################################      ] 91%Percent: [############################################################] 100%
+Percent: [############################################################] 100%
+
+VM NJ-dts-TMCT-126.140 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 12 seconds
+Now running init
+NJ-dts-TMCT-126.140 init sucess
+NJ-dts-TMCT-126.140 clone and init  take  81 seconds
+NJ-dts-TMCT-126.140 reboot now
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-dts-TMCT-126.139
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.139
+vm_hostname          is    TMCT-126.139
+datastore free space is    2000.43 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [#############################                               ] 49%Percent: [##############################                              ] 51%Percent: [#################################                           ] 55%Percent: [#######################################################     ] 92%Percent: [############################################################] 100%
+Percent: [############################################################] 100%
+
+VM NJ-dts-TMCT-126.139 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 4 seconds
+Now running init
+NJ-dts-TMCT-126.139 init sucess
+NJ-dts-TMCT-126.139 clone and init  take  79 seconds
+NJ-dts-TMCT-126.139 reboot now
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-dts-TMCT-126.201
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.201
+vm_hostname          is    TMCT-126.201
+datastore free space is    1986.19 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [#############################                               ] 49%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [#################################################           ] 82%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM NJ-dts-TMCT-126.201 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 8 seconds
+Now running init
+NJ-dts-TMCT-126.201 init sucess
+NJ-dts-TMCT-126.201 clone and init  take  78 seconds
+NJ-dts-TMCT-126.201 reboot now
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-dts-TMCT-126.200
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.200
+vm_hostname          is    TMCT-126.200
+datastore free space is    1971.95 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [#############################                               ] 49%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [#################################################           ] 82%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM NJ-dts-TMCT-126.200 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 8 seconds
+Now running init
+NJ-dts-TMCT-126.200 init sucess
+NJ-dts-TMCT-126.200 clone and init  take  79 seconds
+NJ-dts-TMCT-126.200 reboot now
+====================================================================================================

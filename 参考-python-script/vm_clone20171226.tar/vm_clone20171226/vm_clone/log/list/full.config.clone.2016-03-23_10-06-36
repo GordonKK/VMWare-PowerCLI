@@ -1,0 +1,2 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-TMCT-9.94 -d 'datastore1 (3)' -H 192.168.70.17 -c st2 -i 192.168.9.94 -m TMCT-9.94 -a 'zabbix' 'tomcat'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-TMCT-9.95 -d 'datastore1 (8)' -H 192.168.68.185 -c st2 -i 192.168.9.95 -m TMCT-9.95 -a 'zabbix' 'tomcat'

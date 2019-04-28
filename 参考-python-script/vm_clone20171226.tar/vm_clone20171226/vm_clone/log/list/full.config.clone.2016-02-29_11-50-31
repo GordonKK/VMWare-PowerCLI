@@ -1,0 +1,5 @@
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.58 -d 'datastore1' -H 192.168.70.11 -c st2 -i 192.168.9.58 -m TMCT-9.58 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.59 -d '68.106' -H 192.168.68.106 -c st2 -i 192.168.9.59 -m TMCT-9.59 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.60 -d '7.159' -H 192.168.7.159 -c st2 -i 192.168.9.60 -m TMCT-9.60 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.61 -d '250.19' -H 192.168.250.19 -c st2 -i 192.168.9.61 -m TMCT-9.61 -a 'zabbix' 'tomcat'
+python get_clone.py -t ST2-zhoulinjun-7 -b ST2-TMCT-9.62 -d 'datastore1 (37)' -H 192.168.70.101 -c st2 -i 192.168.9.62 -m TMCT-9.62 -a 'zabbix' 'tomcat'

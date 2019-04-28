@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64_new -b DEV-TMCT-15.62 -d '68.120' -H 192.168.68.120 -c dev -i 192.168.15.62 -m TMCT-15.62

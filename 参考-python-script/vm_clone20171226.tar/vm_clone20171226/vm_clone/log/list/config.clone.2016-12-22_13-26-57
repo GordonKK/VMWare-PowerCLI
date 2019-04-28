@@ -1,0 +1,2 @@
+app1:
+    - ['Template-oracle-11new-64.239-master1',TEST1,st2,test1,"'test'",null,null,null,['Stage2-2-ESXI5.5']]

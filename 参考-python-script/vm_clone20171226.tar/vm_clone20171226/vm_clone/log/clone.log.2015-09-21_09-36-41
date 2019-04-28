@@ -1,0 +1,15 @@
+2015-09-21_09-36-41
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    Template-14.251-RHEL6.5_x64_new
+base_name            is    DEV-TMCT-15.62
+the_stage            is    dev
+host_name            is    192.168.68.120
+datastore_name       is    68.120
+app                  is    None
+vm_ip                is    192.168.15.62
+vm_hostname          is    TMCT-15.62
+Error,vm not found Template-14.251-RHEL6.5_x64_new
+template_name_v is None
+Error:  clone  failed 
+192.168.15.5 already in use
+====================================================================================================

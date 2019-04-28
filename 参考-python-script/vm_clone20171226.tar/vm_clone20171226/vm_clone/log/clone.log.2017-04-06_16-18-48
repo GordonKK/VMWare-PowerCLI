@@ -1,0 +1,33 @@
+2017-04-06_16-18-48
+st3
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-151.154
+the_stage            is    st3
+host_name            is    10.10.51.33
+datastore_name       is    51.33
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.151.154
+vm_hostname          is    TMCT-151.154
+datastore free space is    1719.56 GB
+reserved space       is    300.00 GB
+Error,physical host not found 10.10.51.33
+Error:  clone  failed 
+st3
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST3-TMCT-151.155
+the_stage            is    st3
+host_name            is    10.10.51.34
+datastore_name       is    51.34
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.151.155
+vm_hostname          is    TMCT-151.155
+datastore free space is    636.45 GB
+reserved space       is    300.00 GB
+Error,physical host not found 10.10.51.34
+Error:  clone  failed 
+st3 2 ['ST3-3']
+-151.154
+TMCT
+-151.155
+TMCT
+====================================================================================================

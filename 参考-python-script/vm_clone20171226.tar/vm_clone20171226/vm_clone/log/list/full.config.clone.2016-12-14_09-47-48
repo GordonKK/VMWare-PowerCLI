@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-mysql-base -b DEV-AM-AML_HENGSHENG-MYSQL1-15.144 -d '69.116' -H 192.168.69.116 -c dev -i 192.168.15.144 -m AM-AML_hengsheng-mysql1-15.144 -a 'mysql','AML_hengsheng'

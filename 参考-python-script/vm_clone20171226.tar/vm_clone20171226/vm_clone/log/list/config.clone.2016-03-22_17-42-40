@@ -1,0 +1,4 @@
+app1:
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,nyll,"'tomcat'",null,null,null,[Dev-2-ESXI5.5]]
+    - ['Template-14.251-RHEL6.5_x64',TMCT,dev,TMCT,nyll,"'tomcat'",null,null,null,[Dev-2-ESXI5.5]]
+

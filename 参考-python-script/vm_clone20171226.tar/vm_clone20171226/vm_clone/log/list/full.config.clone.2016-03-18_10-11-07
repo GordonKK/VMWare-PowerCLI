@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-mysql-5.6-64.60-master -b DEV-TMCT-47.246 -d '68.119' -H 192.168.68.119 -c dev -i 192.168.47.246 -m TMCT-47.246

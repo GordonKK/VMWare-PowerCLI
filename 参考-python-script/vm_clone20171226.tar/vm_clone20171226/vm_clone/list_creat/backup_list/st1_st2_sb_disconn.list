@@ -1,0 +1,9 @@
+sandbox,,0.0.0.0,,winNetEnterprise64Guest,SB-Prebank001-12.92
+sandbox,,0.0.0.0,,winNetEnterpriseGuest,SB-win2K3-TMCT-46.5
+sandbox,,192.168.12.61,,rhel5_64Guest,SB-billdb-12.61
+sandbox,,192.168.13.204,,rhel5_64Guest,SB-web004-13.204
+stage-02,,192.168.14.251,,rhel6_64Guest,ST2-mmpSaltstack-192.168.48.8
+stage-02,,192.168.63.116,,rhel6_64Guest,LAB-DAVIDEY-63.116
+stage-02,,192.168.63.37,,rhel5_64Guest,ST2-weijun-teste-63.240
+stage-02,,None,,rhel4_64Guest,63.50-SCM-MVN
+stage-02,,192.168.63.101,,rhel5_64Guest,ST2-SALT-63.101

@@ -1,0 +1,27 @@
+2015-09-07_16-56-09
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-TMCT-126.76
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.76
+vm_hostname          is    TMCT-126.76
+datastore free space is    1935.30 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [###                                                         ] 5%Percent: [###                                                         ] 6%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 45%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [##########################################                  ] 70%Percent: [#####################################################       ] 89%Percent: [#########################################################   ] 95%Percent: [############################################################] 100%
+
+VM NJ-TMCT-126.76 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 16 seconds
+Now running init
+NJ-TMCT-126.76 init sucess
+NJ-TMCT-126.76 clone and init  take  78 seconds
+NJ-TMCT-126.76 reboot now
+====================================================================================================

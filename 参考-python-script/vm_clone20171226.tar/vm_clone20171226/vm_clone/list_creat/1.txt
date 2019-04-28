@@ -1,0 +1,12 @@
+stage-03,,10.10.30.192,,rhel6_64Guest,ST3-WBLG-30.192-sj
+stage-03,,10.10.30.193,,rhel6_64Guest,ST3-WBLG-30.193-sj
+stage-03,,10.10.30.114,,rhel5_64Guest,ST3-TMCT-30.114
+stage-03,,10.10.30.115,,rhel5_64Guest,ST3-TMCT-30.115
+stage-03,,10.10.30.116,,rhel5_64Guest,ST3-TMCT-30.116
+stage-03,,10.10.30.68,,rhel6_64Guest,ST3-TMCT-30.68
+stage-03,,10.10.30.69,,rhel6_64Guest,ST3-TMCT-30.69
+stage-03,,10.10.30.214,,rhel6_64Guest,ST3-OC4J-30.214-sj
+stage-03,,10.10.70.179,,rhel5_64Guest,ST3-TMCT-70.179
+stage-03,,10.10.79.175,,rhel5_64Guest,ST3-TMCT-79.175
+stage-03,,10.10.11.253,,rhel6_64Guest,IDC-PXE-10.10.11.253
+stage-03,,10.10.79.176,,rhel5_64Guest,ST3-TMCT-79.176

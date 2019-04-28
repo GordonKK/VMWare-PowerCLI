@@ -1,0 +1,3 @@
+app1:
+    - ['dev-temlate-47.219',ACS-FSC-hongtao.meng,dev,TMCT,null,null,null,192.168.55.78,['DEV-esxi6.0']]
+    - ['dev-temlate-47.219',ACS-FSC-hongtao.meng,dev,TMCT,null,null,null,192.168.55.166,['DEV-esxi6.0']]

@@ -1,0 +1,1 @@
+python get_init.py -b ST3-TMCT-test-测试-70.21 -c st3 -i 10.10.70.22 -m TMCT-707070 -a 'zabbix'

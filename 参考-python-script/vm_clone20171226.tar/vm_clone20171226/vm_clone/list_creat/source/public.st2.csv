@@ -1,0 +1,254 @@
+#stage-02 list
+#升级过后，注释需要打开的,63.149,
+# 64.4 64.99  是构建机，视情况
+##14.185/14.185 no process public
+##对于138.32 和138.63 不在我们的vcenter当中
+#intergration.properties 中存在的,在总表没有的
+#stage-02,apache,192.168.63.29,public,rhel4_64Guest,ST2-SCM-CONTROL-63.219,老的中控,关机放着
+###########
+stage-02,,192.168.63.230,public,rhel5_64Guest,SCM-Nagios01-63.230
+#stage-02,,192.168.64.200,public,rhel5_64Guest,ST2-TMCT_temp-64.200,关机等待删除
+stage-02,,192.168.64.238,public,rhel5_64Guest,ST2-NagiosServer-64.238
+stage-02,,192.168.63.20,public,rhel6_64Guest,st2-saltstackMaster-63.20
+stage-02,,192.168.63.25,public,rhel6_64Guest,st-yum.99bill.com-63.25
+stage-02,zabbix,192.168.14.244,public,rhel6_64Guest,ST2-zabbix-14.244
+#stage-02,zabbix,192.168.64.92,public,centos64Guest,ST2-zabbix-64.92,关机等待删除
+stage-02,maven,192.168.64.50,public,rhel5_64Guest,SCM-Maven01_Back-64.50
+#person_test
+stage-02,person_test,192.168.63.135,public,rhel6_64Guest,st2-salt-63.135
+stage-02,person_test,192.168.63.136,public,rhel5_64Guest,st2-salt-63.136
+#stage-02,apache,192.168.63.116,public,rhel6_64Guest,LAB-DAVIDEY-63.116
+######
+stage-02,dns,192.168.63.154,public,rhel5_64Guest,ST2-DNS01-63.154
+stage-02,dns,192.168.63.155,public,rhel5_64Guest,ST2-DNS02-63.155
+stage-02,squidproxy,192.168.14.125,public,rhel6_64Guest,st2-squidproxy-14.125
+stage-02,haproxy,192.168.63.47,public,rhel5_64Guest,ST2-haproxy01-63.47
+stage-02,haproxy,192.168.63.48,public,rhel5_64Guest,ST2-haproxy01-63.48
+stage-02,nfs,192.168.63.150,public,rhel5_64Guest,st2-file_NFS-63.150-sj
+stage-02,nfs,192.168.14.253,public,rhel5_64Guest,ST2-FileServer-14.253
+stage-02,ftp,192.168.52.94,public,rhel6_64Guest,ST2-FTP-52.94
+stage-02,sftp,192.168.14.252,public,rhel5_64Guest,ST2-Proftp-14.252 (2)
+#stage-02,backup,192.168.63.149,public,rhel5_64Guest,SCM-BAK01-63.149
+stage-02,smtp,192.168.63.233,public,rhel5_64Guest,SCM-SMTP01-63.233
+stage-02,smtp,192.168.63.234,public,rhel5_64Guest,SCM-SMTP02-63.234
+stage-02,pop3,192.168.5.120,public,centosGuest,ST2-POP3-5.120
+stage-02,memcache,192.168.63.231,public,rhel6_64Guest,ST2-SCM-MC01-63.231-sj
+stage-02,memcache,192.168.63.232,public,rhel6_64Guest,ST2-SCM-MC02-63.232-sj
+stage-02,memcache,192.168.63.42,public,rhel6_64Guest,st2-mmp-memcache01-63.42
+stage-02,memcache,192.168.63.43,public,rhel6_64Guest,st2-mmp-memcache02-63.43
+#### 并存机器
+#apache_php类型在intergration.properties中也存在 app-oss.php
+#  并存 63.165 , 63.166 , 63.167 , 63.168 共4台
+#stage-02,apache_php,192.168.63.165,public,rhel6_64Guest,ST2-sso-web01-63.165
+#stage-02,apache_php,192.168.63.166,public,rhel6_64Guest,ST2-sso-web02-63.166
+#stage-02,apache_php,192.168.63.167,public,rhel6_64Guest,ST2-sso-web03-63.167
+#stage-02,apache_php,192.168.63.168,public,rhel6_64Guest,ST2-sso-web04-63.168
+#### vcenter当中没有的机器，在138 vcenter或物理机
+stage-02,tibco,192.168.64.72,public,物理机,7222,
+##
+stage-02,tibco,192.168.64.73,public,rhel5_64Guest,ST2-TBCO04-64.73
+stage-02,tibco,192.168.64.108,public,rhel5_64Guest,ST2-TBCO01-64.108
+stage-02,tibco,192.168.64.109,public,rhel5_64Guest,ST2-TBCO09-64.109
+stage-02,tibco,192.168.64.79,public,rhel5_64Guest,ST2-TBCO014-64.79
+stage-02,tibco,192.168.64.80,public,rhel5_64Guest,ST2-TBCO015-64.80
+stage-02,tibco,192.168.64.74,public,rhel6_64Guest,ST2-Tibco-64.74-new
+stage-02,tibco,192.168.64.75,public,rhel6_64Guest,ST2-Tibco-64.75-new
+stage-02,tibco,192.168.14.241,public,rhel5_64Guest,ST2-TBCO19-14.241
+stage-02,tibco,192.168.14.242,public,rhel5_64Guest,ST2-TBCO20-14.242
+stage-02,tibco,192.168.64.147,public,rhel5_64Guest,ST2-TBCO10-64.147
+stage-02,tibco,192.168.64.148,public,rhel5_64Guest,ST2-tbco11-64.148
+stage-02,tibco,192.168.64.24,public,rhel6_64Guest,ST2-Tibco-64.24-new
+stage-02,tibco,192.168.64.25,public,rhel6_64Guest,ST2-Tibco-64.25-new
+stage-02,tibco,192.168.64.77,public,rhel5_64Guest,ST2_Tibco-64.77
+stage-02,tibco,192.168.64.78,public,rhel5_64Guest,ST2_Tibco-64.78
+stage-02,,192.168.63.61,public,rhel6_64Guest,st2-mmp-tibco01-63.61
+stage-02,,192.168.63.62,public,rhel6_64Guest,st2-mmp-tibco02-63.62
+########## tibco.properties 当中没有
+#stage-02,tibco,192.168.64.81,public,rhel5_64Guest,ST2-TBCO04-64.81,关机等待删除
+#stage-02,tibco,192.168.64.82,public,rhel5_64Guest,ST2-TBCO04-64.82，关机等待删除
+#### prebank
+stage-02,prebank,192.168.63.67,public,rhel5_64Guest,ST2-Prebank002-63.67
+stage-02,prebank,192.168.63.60,public,rhel5_64Guest,ST2-Prebank004-63.60
+stage-02,prebank,192.168.14.205,public,rhel5_64Guest,ST2-prebank021-14.205
+##hadoop
+stage-02,hadoop,192.168.14.110,public,rhel6_64Guest,st2-namenode1-v2-14.110
+stage-02,hadoop,192.168.14.111,public,rhel6_64Guest,st2-namenode2-v2-14.111
+stage-02,hadoop,192.168.14.112,public,rhel6_64Guest,st2-datanode1-v2-14.112
+stage-02,hadoop,192.168.14.113,public,rhel6_64Guest,st2-datanode2-v2-14.113
+stage-02,hadoop,192.168.14.114,public,rhel6_64Guest,st2-datanode3-v2-14.114
+stage-02,hadoop,192.168.63.201,public,rhel5_64Guest,ST2-Hadoop01-63.201
+stage-02,hadoop,192.168.63.202,public,rhel5_64Guest,ST2-Hadoop02-63.202
+stage-02,hadoop,192.168.63.203,public,rhel5_64Guest,ST2-Hadoop03-63.203
+stage-02,hadoop,192.168.63.204,public,rhel5_64Guest,ST2-Hadoop04-63.204
+stage-02,hadoop,192.168.63.205,public,rhel5_64Guest,ST2-Hadoop05-63.205
+stage-02,hadoop,192.168.63.206,public,rhel5_64Guest,ST2-Hadoop06-63.206
+stage-02,hadoop,192.168.63.207,public,rhel5_64Guest,ST2-Hadoop07-63.207
+stage-02,hadoop,192.168.63.208,public,rhel5_64Guest,ST2-Hadoop08-63.208
+#### fast_dfs
+stage-02,fast_dfs,192.168.63.31,public,rhel6_64Guest,st2-fastDFS01-63.31
+stage-02,fast_dfs,192.168.63.32,public,rhel6_64Guest,st2-fastDFS02-63.32
+stage-02,fast_dfs,192.168.63.33,public,rhel6_64Guest,st2-fastDFS03-63.33
+stage-02,fast_dfs,192.168.63.34,public,rhel6_64Guest,st2-fastDFS04-63.34
+stage-02,fast_dfs,192.168.63.35,public,rhel6_64Guest,st2-fastDFS05-63.35
+stage-02,fast_dfs,192.168.63.36,public,rhel6_64Guest,st2-fastDFS06-63.36
+#### splunk
+#并存 63.119 在应用列表中有 oc4j应用 app-bussinessQuery.ear
+stage-02,splunk,192.168.63.112,public,rhel6_64Guest,st2-splunk-header1-63.112
+stage-02,splunk,192.168.63.115,public,rhel6_64Guest,st2-splunk-header2-63.115
+stage-02,splunk,192.168.63.113,public,rhel6_64Guest,st2-splunk-index1-63.113
+stage-02,splunk,192.168.63.114,public,rhel6_64Guest,st2-splunk-index2-63.114
+stage-02,splunk,192.168.63.119,public,rhel6_64Guest,st2-splunk-index3-63.119
+stage-02,splunk,192.168.63.120,public,rhel6_64Guest,st2-splunk-index4-63.120
+stage-02,splunk,192.168.63.121,public,rhel6_64Guest,st2-splunk-manager-63.121
+##db
+#stage-02,for_db,192.168.15.172,public,物理机
+#stage-02,for_db,192.168.14.251,public,rhel6_64Guest,ST2-DB2-HA-14.251
+#stage-02,for_db,192.168.14.107,public,rhel6_64Guest,ST2-cloudpos-14.107
+#stage-02,for_db,192.168.63.164,public,rhel6_64Guest,ST2-oss-mysql-63.164
+#stage-02,for_db,192.168.14.102,public,rhel6_64Guest,ST2-tms-oracle11-14.102
+#stage-02,for_db,192.168.14.121,public,rhel6_64Guest,ST2-cpspe-db-14.121
+# db --no key
+#stage-02,for_db,192.168.5.66,public,rhel4_64Guest,ST2-DB12-5.66
+#stage-02,for_db,192.168.5.67,public,rhel4_64Guest,ST2-DB13-5.67
+#stage-02,for_db,192.168.63.243,public,rhel6_64Guest,st2-oracle-63.243,关机等待删除
+#stage-02,for_db,192.168.63.244,public,rhel6_64Guest,st2-oracle-63.244,关机等待删除
+#stage-02,for_db,192.168.52.160,public,rhel6_64Guest,ST2-efs-oracle-52.160
+#stage-02,for_db,192.168.64.1,public,rhel5_64Guest,ST2-WF-DB01-64.1
+#stage-02,for_db,192.168.14.79,public,rhel6_64Guest,ST2-DB-AML-14.79
+#stage-02,for_db,192.168.14.141,public,rhel6_64Guest,ST2-ESB-oracle-14.141
+#stage-02,for_db,192.168.63.142,public,rhel6_64Guest,ST2-rmdb-oracle-63.142
+#stage-02,for_db,192.168.14.143,public,rhel6_64Guest,ST2-ISdb-oracle-14.143
+#stage-02,for_db,192.168.14.134,public,rhel6_64Guest,st2-kettleoracleDB-14.134
+###  迁移dev
+#stage-02,for_db,192.168.64.100,public,rhel6_64Guest,ST2-monitor-MYSql004-64.100,迁到dev
+#stage-02,for_db,192.168.64.3,public,rhel6_64Guest,ST2-NMRS-MYSql001-64.3,关机等待删除
+#stage-02,for_db,192.168.64.8,public,rhel6_64Guest,ST2-NMRS-MYSql002-64.8,迁到dev
+#stage-02,for_db,192.168.64.9,public,rhel6_64Guest,ST2-NMRS-MYSql003-64.9,迁到dev
+########### app db -- no key
+#stage-02,for_db,192.168.48.61,public,rhel6_64Guest,ST2-mmpMysql-192.168.48.61
+#stage-02,for_db,192.168.48.60,public,rhel6_64Guest,ST2-mmpOracle-192.168.48.60
+#stage-02,for_db,192.168.63.63,public,rhel6_64Guest,st2-mmp-oracle-63.63
+#stage-02,for_db,192.168.14.153,public,rhel6_64Guest,ST2-robot-oracle-14.153
+######## CTMP 工程化
+#stage-02,,192.168.15.62,public,rhel6_64Guest,ST2-CTMP-test-15.62
+#stage-02,,192.168.64.70,public,rhel5_64Guest,CTMP-Svn-同步-64.70
+#stage-02,,192.168.64.4,public,rhel6_64Guest,ST2-Jenkins-64.4
+#stage-02,,192.168.64.90,public,debian6_64Guest,CTMP-构建机-64.90
+#stage-02,,192.168.64.91,public,debian6_64Guest,CTMP-构建机-64.91
+#stage-02,,192.168.64.85,public,debian6_64Guest,CTMP-构建机-正式01-64.85
+#stage-02,,192.168.64.98,public,debian6_64Guest,CTMP-构建机-正式01-64.98
+#stage-02,,192.168.64.86,public,debian6_64Guest,CTMP-构建机-正式02-64.86
+#stage-02,,192.168.64.99,public,debian6_64Guest,CTMP-构建机-正式02-64.99
+#stage-02,,192.168.64.111,public,debian6_64Guest,CTMP-构建机-正式03-64.111
+#stage-02,,192.168.64.87,public,debian6_64Guest,CTMP-构建机-正式03-64.87
+#stage-02,,192.168.64.89,public,debian6_64Guest,CTMP-构建机-正式android-64.89
+#stage-02,,192.168.63.9,public,rhel6_64Guest,QA-sonar-63.9
+#stage-02,,192.168.63.10,public,rhel6_64Guest,QA-sonar-DB-63.10
+##### no key
+#stage-02,,192.168.63.156,public,ubuntuGuest,SCM-Bromine-63.156
+#stage-02,,192.168.52.96,public,other26xLinuxGuest,SCM-Maven03-52.96
+###### 以下第二批
+stage-02,apache,192.168.14.181,public,rhel5_64Guest,ST2-apache-29-14.181
+stage-02,apache,192.168.14.182,public,rhel5_64Guest,ST2-apache-30-14.182
+stage-02,apache,192.168.14.183,public,rhel5_64Guest,ST2-WF-Apache-14.183
+stage-02,apache,192.168.14.184,public,rhel5_64Guest,ST2-WF-Apache-14.184
+stage-02,apache,192.168.14.185,public,rhel6_64Guest,ST2-OSS-Apache-14.185
+stage-02,apache,192.168.14.186,public,rhel6_64Guest,ST2-OSS-Apache-14.186
+stage-02,apache,192.168.14.245,public,rhel5_64Guest,ST2-WEB015-14.245
+stage-02,apache,192.168.14.246,public,rhel5_64Guest,ST2-WEB016-14.246
+stage-02,apache,192.168.52.221,public,rhel6_64Guest,ST2-WEB005-52.221-sj
+stage-02,apache,192.168.52.222,public,rhel6_64Guest,ST2-WEB006-52.222-sj
+stage-02,apache,192.168.63.245,public,rhel5_64Guest,ST2-INF-WEB01-63.245
+stage-02,apache,192.168.63.246,public,rhel5_64Guest,ST2-INF-WEB02-63.246
+stage-02,apache,192.168.63.251,public,rhel5_64Guest,ST2-UIUE01-63.251
+stage-02,apache,192.168.63.252,public,rhel5_64Guest,ST2-UIUE02-63.252
+stage-02,apache,192.168.64.132,public,rhel5_64Guest,ST2-WEB012-64.132
+stage-02,apache,192.168.64.133,public,rhel5_64Guest,ST2-WEB013-64.133
+stage-02,apache,192.168.64.44,public,rhel5_64Guest,ST2-WEB11-64.44
+#stage-02,apache,192.168.63.40,public,rhel6_64Guest,st2-mmp-01-63.40
+#stage-02,apache,192.168.63.41,public,rhel6_64Guest,st2-mmp-02-63.41
+stage-02,apache,192.168.63.40,public,rhel6_64Guest,st2-mmp-apache01-63.40
+stage-02,apache,192.168.63.41,public,rhel6_64Guest,st2-mmp-apache02-63.41
+#  并存 63.78 在intergration.properties 有5个应用,
+#stage-02,oc4j_apache,192.168.63.78,public,rhel6_64Guest,ST2-OC4J08-63.78-sj
+stage-02,oc4j_apache,192.168.63.69,public,rhel6_64Guest,ST2-SCM-ASWEB01-63.69-sj
+stage-02,oc4j_apache,192.168.63.70,public,rhel6_64Guest,ST2-SCM-ASWEB02-63.70-sj
+stage-02,oc4j_apache,192.168.63.99,public,rhel6_64Guest,ST2-OC4J29-63.99-sj
+############## 和应用一起启
+stage-02,other_app,192.168.64.110,public,rhel6_64Guest,ST2-ODI01-64.110-linux6.5
+#outsourcing
+stage-02,,192.168.14.131,public,rhel6_64Guest,st2-kettle3-14.131
+stage-02,,192.168.14.132,public,rhel6_64Guest,st2-kettle4-14.132
+stage-02,,192.168.14.133,public,winNetEnterpriseGuest,st2-kettle5-14.133,windows
+stage-02,,192.168.14.78,public,rhel6_64Guest,ST2-Linux6.5-AML-14.78
+# st1 准备迁移
+#stage-02,,192.168.65.140,public,rhel4_64Guest,ST1-WBLG02-65.140
+#stage-02,,192.168.65.141,public,rhel4_64Guest,ST1-WBLG05-65.141
+#stage-02,,192.168.65.142,public,rhel4_64Guest,ST1-WBLG06-65.142
+#################
+#stage-02,,192.168.6.29,public,rhel5_64Guest,CPS-Test03-6.29(backup 加密机)
+stage-02,,192.168.48.80,public,rhel6_64Guest,ST2-mmpApache-192.168.48.80
+stage-02,,192.168.48.81,public,rhel6_64Guest,ST2-mmpApache-192.168.48.81
+stage-02,,192.168.48.11,public,rhel6_64Guest,ST2-mmpDns-192.168.48.11
+stage-02,,192.168.48.12,public,rhel6_64Guest,ST2-mmpDns-192.168.48.12
+stage-02,,192.168.48.40,public,rhel6_64Guest,ST2-mmpMemcache-192.168.48.40
+stage-02,,192.168.48.41,public,rhel6_64Guest,ST2-mmpMemcache-192.168.48.41
+stage-02,,192.168.48.20,public,rhel6_64Guest,ST2-mmpTibco-192.168.48.20
+stage-02,,192.168.48.21,public,rhel6_64Guest,ST2-mmpTibco-192.168.48.21
+stage-02,,192.168.48.22,public,rhel5_64Guest,ST2-mmpTibco-192.168.48.22
+stage-02,,192.168.48.23,public,rhel5_64Guest,ST2-mmpTibco-192.168.48.23
+stage-02,,192.168.48.24,public,rhel5_64Guest,ST2-mmpTibco-192.168.48.24
+stage-02,,192.168.48.25,public,rhel5_64Guest,ST2-mmpTibco-192.168.48.25
+stage-02,,192.168.48.100,public,rhel6_64Guest,ST2-mmpTomcat-192.168.48.100
+stage-02,,192.168.48.101,public,rhel6_64Guest,ST2-mmpTomcat-192.168.48.101
+stage-02,,192.168.48.200,public,rhel6_64Guest,ST2-mmpTomcat-192.168.48.200
+stage-02,,192.168.48.201,public,rhel6_64Guest,ST2-mmpTomcat-192.168.48.201
+#stage-02,,192.168.63.77,public,rhel6_64Guest,ST2-OC4J07-63.77-sj,机等待删除
+#stage-02,,192.168.63.106,public,rhel6_64Guest,ST2-OC4J36-63.106-sj,机等待删除
+#stage-02,,192.168.63.88,public,rhel6_64Guest,ST2-OC4J18-63.88-sj,关机等待删除
+#stage-02,,192.168.63.30,public,rhel6_64Guest,st2-syndicStage2-63.30,关机等待删除
+#stage-02,,192.168.14.51,public,rhel5_64Guest,ST2-TMCT121-14.51,关机等待删除
+#stage-02,,192.168.14.52,public,rhel5_64Guest,ST2-TMCT122-14.52,关机等待删除
+#stage-02,,192.168.14.154,public,rhel6_64Guest,ST2-TMCT-14.154-new,关机等待删除
+#stage-02,,192.168.14.155,public,rhel6_64Guest,ST2-TMCT-14.155-new,关机等待删除
+#stage-02,,192.168.63.23,public,rhel5_64Guest,ST2-UATP-MC01-63.23,关机等待删除
+#stage-02,,192.168.63.132,public,rhel6_64Guest,ST2-WBLG012-63.132-sj,机等待删除
+#stage-02,,192.168.63.51,public,rhel6_64Guest,ST2-TMCT01-63.51-sj,关机等待删除
+#stage-02,,192.168.64.16,public,rhel5_64Guest,ST2-TMCT033-64.16,关机等待删除
+stage-02,,192.168.14.151,public,rhel6_64Guest,ST2-robot-manager-14.151-new
+stage-02,,192.168.14.149,public,rhel6_64Guest,ST2-robot-14.149
+stage-02,,192.168.14.150,public,rhel6_64Guest,ST2-robot-AI-14.150
+stage-02,,192.168.14.152,public,rhel6_64Guest,ST2-robot-online-14.152-new
+#### windows
+stage-02,,192.168.14.90,public,winLonghorn64Guest,ST2-ODI-14.90,windows
+stage-02,,192.168.64.231,public,winNetEnterprise64Guest,ST2-Temp_OC4J_64.231,windows
+stage-02,,192.168.64.232,public,winNetEnterpriseGuest,ST2-Temp_Weblogic_64.232,windows
+stage-02,,192.168.14.25,public,winNetEnterpriseGuest,ST2-TMCT095-14.25,windows
+stage-02,,192.168.14.26,public,winNetEnterpriseGuest,ST2-TMCT096-14.26,windows
+stage-02,,192.168.63.250,public,winNetEnterprise64Guest,ST2-vCenter-VC001-63.250,windows
+stage-02,,192.168.14.109,public,winNetEnterpriseGuest,st2-win2k3_32-14.109,windows
+stage-02,,192.168.14.148,public,winNetEnterpriseGuest,ST2-win2k3_32SZ-14.148,windows
+stage-02,,192.168.14.120,public,winNetEnterpriseGuest,ST2-win2k3-14.120,windows
+stage-02,,192.168.14.95,public,winNetEnterpriseGuest,ST2-win2k3-TMCT-14.95,windows
+stage-02,,192.168.14.96,public,winNetEnterpriseGuest,ST2-win2K3-TMCT-14.96,windows
+stage-02,,192.168.64.217,public,winNetEnterpriseGuest,QA-Mysql01-64.217,windows
+stage-02,,192.168.63.151,public,winNetEnterpriseGuest,SCM-PKG01-63.151,windows
+stage-02,,192.168.64.150,public,winNetEnterpriseGuest,SCM-PKG03-64.150,windows
+stage-02,,192.168.52.186,public,winNetEnterpriseGuest,SCM-PKG04-52.186,windows
+stage-02,,192.168.63.16,public,winNetEnterpriseGuest,SCM-PKG05-63.16,windows
+stage-02,,192.168.64.54,public,winNetEnterpriseGuest,SCM-PKG08-64.54,windows
+stage-02,,192.168.64.58,public,winNetEnterpriseGuest,SCM-PKG12-64.58,windows
+stage-02,,192.168.64.64,public,winNetEnterpriseGuest,SCM-PKG18-64.64,windows
+stage-02,,192.168.52.93,public,winNetEnterpriseGuest,ST2-SCM-IVY2-52.93,windows
+stage-02,,192.168.63.38,public,winLonghorn64Guest,LAB-RYL-63.38,windows
+stage-02,,192.168.64.51,public,winNetEnterpriseGuest,QA-QC01-64.51,windows
+stage-02,,192.168.64.67,public,winNetEnterpriseGuest,QA-QC02-64.67,windows
+stage-02,,192.168.64.52,public,winXPProGuest,QA-TC01-64.52,windows
+stage-02,,192.168.52.211,public,winNetEnterpriseGuest,SCM-IVY01-52.211,windows
+stage-02,,192.168.64.61,public,winNetEnterprise64Guest,SCM-win2K3-64.61,windows
+stage-02,,192.168.14.159,public,winNetEnterpriseGuest,ST2-B2BI-14.159,windows
+stage-02,,192.168.14.160,public,winNetEnterpriseGuest,ST2-B2BI-14.160,windows
+stage-02,,192.168.14.98,public,winNetEnterprise64Guest,ST2-EAS-win2K3-14.98,windows
+stage-02,,192.168.14.124,public,winNetEnterprise64Guest,st2-crosstradeMule-14.124,windows
+stage-02,,192.168.14.97,public,winLonghorn64Guest,ST2-EAS-win2K8-14.97,windows
+stage-02,,192.168.63.253,public,winLonghorn64Guest,ST2-备份虚拟机Client-63.253,windows

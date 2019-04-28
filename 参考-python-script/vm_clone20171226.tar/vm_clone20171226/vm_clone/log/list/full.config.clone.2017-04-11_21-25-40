@@ -1,0 +1,1 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-POA_EA_SCM-linjun.zhou-55.183 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.183 -m TMCT-55.183

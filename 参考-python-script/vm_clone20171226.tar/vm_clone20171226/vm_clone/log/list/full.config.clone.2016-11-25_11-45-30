@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-lvm-mysql-master -b ST2-VAS-MYSQL-slave-9.167 -d 'datastore1 (6)' -H 192.168.68.181 -c st2 -i 192.168.9.167 -m vas-mysql-slave-9.167 -a 'mysql'

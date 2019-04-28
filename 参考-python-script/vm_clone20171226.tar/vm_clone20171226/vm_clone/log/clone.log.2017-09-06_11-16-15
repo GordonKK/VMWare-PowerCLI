@@ -1,0 +1,29 @@
+2017-09-06_11-16-15
+template_name        is    dev-temlate-47.219
+base_name            is    DEV-ACS-MCS-leafe.qian-55.36
+the_stage            is    dev
+host_name            is    192.168.121.48
+datastore_name       is    192.168.121.48
+app                  is    None
+vm_ip                is    192.168.55.36
+vm_hostname          is    TMCT-55.36
+datastore free space is    5321.97 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [#########                                                   ] 16%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [###########################                                 ] 45%Percent: [###########################                                 ] 46%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [########################################################    ] 94%Percent: [############################################################] 100%
+
+VM DEV-ACS-MCS-leafe.qian-55.36 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 8 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xeaa6b90>
+Now running init
+DEV-ACS-MCS-leafe.qian-55.36 init sucess
+DEV-ACS-MCS-leafe.qian-55.36 clone and init  take  193 seconds
+DEV-ACS-MCS-leafe.qian-55.36 reboot now
+dev 1 ['DEV-esxi6.0']
+====================================================================================================

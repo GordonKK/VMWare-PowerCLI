@@ -1,0 +1,14 @@
+2016-12-26_16-43-35
+template_name        is    ST3-Template-RHEL6.5_x64_4-70.200
+base_name            is    ST1-TOMCAT-71.12
+the_stage            is    st1
+host_name            is    192.168.70.177
+datastore_name       is    192.168.70.177
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    192.168.71.12
+vm_hostname          is    ST1-TOMCAT-71.12
+Error,vm not found ST3-Template-RHEL6.5_x64_4-70.200
+template_name_v is None
+Error:  clone  failed 
+st1 1 ['Stage1-2-ESXI5.5']
+====================================================================================================

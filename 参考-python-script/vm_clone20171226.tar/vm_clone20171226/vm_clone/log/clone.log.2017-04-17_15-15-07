@@ -1,0 +1,55 @@
+2017-04-17_15-15-07
+template_name        is    ST3-Template-RHEL6.5-JDK1.7_x64-70.10
+base_name            is    ST3-TMCT-205.78
+the_stage            is    st3
+host_name            is    10.200.123.16
+datastore_name       is    10.200.123.16
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.205.78
+vm_hostname          is    TMCT-205.78
+datastore free space is    5479.89 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##################                                          ] 31%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [############################                                ] 48%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [#################################                           ] 55%Percent: [######################################                      ] 64%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM ST3-TMCT-205.78 successfully clone
+set vlan  vlan 205
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 24 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0xf565750>
+Now running init
+ST3-TMCT-205.78 init sucess
+ST3-TMCT-205.78 clone and init  take  631 seconds
+ST3-TMCT-205.78 reboot now
+template_name        is    ST3-Template-RHEL6.5-JDK1.7_x64-70.10
+base_name            is    ST3-TMCT-205.79
+the_stage            is    st3
+host_name            is    10.200.123.18
+datastore_name       is    10.200.123.18
+app                  is    ['zabbix', 'tomcat']
+vm_ip                is    10.200.205.79
+vm_hostname          is    TMCT-205.79
+datastore free space is    5527.03 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 28%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 42%Percent: [#########################                                   ] 43%Percent: [#########################                                   ] 43%Percent: [##########################                                  ] 44%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [###########################                                 ] 46%Percent: [############################                                ] 48%Percent: [#############################                               ] 49%Percent: [##############################                              ] 50%Percent: [##############################                              ] 50%Percent: [##############################                              ] 51%Percent: [##############################                              ] 51%Percent: [###############################                             ] 52%Percent: [######################################                      ] 64%Percent: [#######################################                     ] 65%Percent: [########################################################    ] 94%Percent: [############################################################] 100%
+
+VM ST3-TMCT-205.79 successfully clone
+set vlan  vlan 205
+set eth connected
+waiting for vm start up  ......
+vm_tools_status is RUNNING OLD
+OS start up
+wait OS start up time is 32 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x1fd2ac50>
+Now running init
+ST3-TMCT-205.79 init sucess
+ST3-TMCT-205.79 clone and init  take  620 seconds
+ST3-TMCT-205.79 reboot now
+st3 2 ['ST3-7']
+====================================================================================================

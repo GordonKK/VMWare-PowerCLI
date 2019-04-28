@@ -1,0 +1,6 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-15.229 -d '68.191' -H 192.168.68.191 -c dev -i 192.168.15.229 -m TMCT-15.229
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.118 -d '69.102' -H 192.168.69.102 -c dev -i 192.168.47.118 -m TMCT-47.118
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.119 -d '68.191' -H 192.168.68.191 -c dev -i 192.168.47.119 -m TMCT-47.119
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.120 -d '68.187' -H 192.168.68.187 -c dev -i 192.168.47.120 -m TMCT-47.120
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.121 -d '68.175' -H 192.168.68.175 -c dev -i 192.168.47.121 -m TMCT-47.121
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.123 -d '68.193' -H 192.168.68.193 -c dev -i 192.168.47.123 -m TMCT-47.123

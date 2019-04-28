@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6-test',TMCT-test-测试,st3,tmct-test,"'zabbix' 'tomcat'"]

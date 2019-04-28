@@ -1,0 +1,1 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-log_analysis-9.230 -d 'datastore1 (10)' -H 192.168.121.18 -c st2 -i 192.168.9.230 -m log_analysis-9.230

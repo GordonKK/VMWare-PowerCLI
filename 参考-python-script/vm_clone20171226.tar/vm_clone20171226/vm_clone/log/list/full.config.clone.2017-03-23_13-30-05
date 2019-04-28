@@ -1,0 +1,1 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-POA_EA_LAB-chengfei.mao-55.35 -d '69.116' -H 192.168.69.116 -c dev -i 192.168.55.35 -m TMCT-55.35

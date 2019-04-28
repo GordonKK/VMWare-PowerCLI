@@ -1,0 +1,2 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-ACS-BGW-linjun.zhou-55.220 -d '192.168.121.46' -H 192.168.121.46 -c dev -i 192.168.55.220 -m TMCT-55.220
+python get_clone.py -t dev-temlate-47.219 -b DEV-ACS-BGW-linjun.zhou-55.221 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.221 -m TMCT-55.221

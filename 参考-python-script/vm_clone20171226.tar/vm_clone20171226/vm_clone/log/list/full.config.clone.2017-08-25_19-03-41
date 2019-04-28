@@ -1,0 +1,3 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-IFS-yang.du-55.179 -d '192.168.121.50' -H 192.168.121.50 -c dev -i 192.168.55.179 -m TMCT-55.179
+python get_clone.py -t dev-temlate-47.219 -b DEV-IFS-yang.du-55.160 -d '192.168.121.42' -H 192.168.121.42 -c dev -i 192.168.55.160 -m TMCT-55.160
+python get_clone.py -t dev-temlate-47.219 -b DEV-IFS-yang.du-55.177 -d '192.168.121.48' -H 192.168.121.48 -c dev -i 192.168.55.177 -m TMCT-55.177

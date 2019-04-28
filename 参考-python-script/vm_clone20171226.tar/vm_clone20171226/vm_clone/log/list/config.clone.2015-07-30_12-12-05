@@ -1,0 +1,2 @@
+app3:
+    - ['Template-14.251-RHEL6.5_x64',splunkheader,st2,splunkheader,"'zabbix'",null,null,192.168.63.124,['stage2-1','stage2-2-ESXI5.5']]

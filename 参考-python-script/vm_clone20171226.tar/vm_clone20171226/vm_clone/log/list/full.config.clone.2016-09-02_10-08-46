@@ -1,0 +1,1 @@
+python get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-opennebula03-55.223 -d 'datastore1 (33)' -H 192.168.70.71 -c dev -i 192.168.55.223 -m nebula03-55.223

@@ -1,0 +1,16 @@
+2015-09-07_09-42-50
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    tibco-template-for-dev-clone
+base_name            is    ST2-test-testttttt-14.219
+the_stage            is    st2
+host_name            is    192.168.68.118
+datastore_name       is    68.118
+app                  is    None
+vm_ip                is    192.168.14.219
+vm_hostname          is    testttttt-14.219
+datastore free space is    1025.58 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.0
+Now  clone  ......
+192.168.14.126 already in use
+====================================================================================================

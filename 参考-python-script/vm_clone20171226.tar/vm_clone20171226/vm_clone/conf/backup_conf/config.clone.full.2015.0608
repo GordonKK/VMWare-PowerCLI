@@ -1,0 +1,6 @@
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-01-14.178 -d 'datastore1 (11)' -H 192.168.250.7 -c st2 -i 192.168.14.178 -m hadoop-tyqj-14.178 -a 'zabbix'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-02-14.179 -d 'datastore1 (12)' -H 192.168.250.9 -c st2 -i 192.168.14.179 -m hadoop-tyqj-14.179 -a 'zabbix'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-03-14.180 -d 'datastore1 (11)' -H 192.168.250.7 -c st2 -i 192.168.14.180 -m hadoop-tyqj-14.180 -a 'zabbix'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-04-14.189 -d 'datastore1 (12)' -H 192.168.250.9 -c st2 -i 192.168.14.189 -m hadoop-tyqj-14.189 -a 'zabbix'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-05-14.190 -d 'datastore1 (11)' -H 192.168.250.7 -c st2 -i 192.168.14.190 -m hadoop-tyqj-14.190 -a 'zabbix'
+python get_clone.py -t Template-14.251-RHEL6.5_x64 -b ST2-Hadoop-tyqj-06-14.193 -d 'datastore1 (12)' -H 192.168.250.9 -c st2 -i 192.168.14.193 -m hadoop-tyqj-14.193 -a 'zabbix'

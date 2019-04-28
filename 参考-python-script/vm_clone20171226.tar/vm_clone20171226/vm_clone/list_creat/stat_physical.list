@@ -1,0 +1,14 @@
+#test
+stage-02,tibco,192.168.64.72,public,,physical_machine,7222,
+stage-03,tibco,10.10.77.127,public,,physical_machine
+stage-03,tibco,10.10.77.141,public,,physical_machine
+stage-03,tibco,10.10.77.143,public,,physical_machine
+#2 192.168.12.61  billdb 多网卡 未连接
+#2 192.168.13.204
+#2 192.168.14.251
+#2 192.168.15.172
+#2 192.168.63.116
+#2 192.168.63.31
+#3 0.0.0.0
+#3 192.168.63.32
+#9 10.200.50.10

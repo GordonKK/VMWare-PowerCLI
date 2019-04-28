@@ -1,0 +1,2 @@
+app1:
+    - ['Template-14.251-RHEL6.5_x64',log_analysis,st2,log_analysis,null,null,null,null,['ST2-esxi6.0']]

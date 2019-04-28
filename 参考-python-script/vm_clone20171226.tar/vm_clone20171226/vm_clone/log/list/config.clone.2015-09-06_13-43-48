@@ -1,0 +1,2 @@
+app4:
+    - ['ST2-Oracle-backup-63.28',DTS-oracle,dev,DTS-oracle,null,192.168.250.15,250.15,192.168.47.86,null]

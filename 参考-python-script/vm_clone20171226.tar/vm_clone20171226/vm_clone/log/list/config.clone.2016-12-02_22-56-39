@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh7c',TEST,st2,test,"'test'",null,null,null,['Stage2-2-ESXI5.5']]

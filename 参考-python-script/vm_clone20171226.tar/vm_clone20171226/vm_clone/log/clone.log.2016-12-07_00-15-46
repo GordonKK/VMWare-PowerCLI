@@ -1,0 +1,16 @@
+2016-12-07_00-15-46
+template_name        is    template-fedora24-15.116
+base_name            is    DEV-HUANGYY-WS1-15.122
+the_stage            is    dev
+host_name            is    192.168.69.154
+datastore_name       is    69.154
+app                  is    ['redhat,ws1']
+vm_ip                is    192.168.15.122
+vm_hostname          is    huangyy-ws1-15.122
+Error,vm not found template-fedora24-15.116
+template_name_v is None
+Error:  clone  failed 
+dev 1 ['Dev-1']
+192.168.15.5 already in use
+192.168.15.84 already in use
+====================================================================================================

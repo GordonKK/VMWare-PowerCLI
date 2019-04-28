@@ -1,0 +1,4 @@
+app1:
+    - ['ST3-Template-TMCT.70.10',TMCT,st3,TMCT,"'zabbix' 'tomcat'",null,null,10.200.197.51,['ST3-7']]
+    - ['ST3-Template-TMCT.70.10',TMCT,st3,TMCT,"'zabbix' 'tomcat'",null,null,10.200.197.52,['ST3-7']]
+    - ['ST3-Template-TMCT.70.10',TMCT,st3,TMCT,"'zabbix' 'tomcat'",null,null,10.200.197.53,['ST3-7']]

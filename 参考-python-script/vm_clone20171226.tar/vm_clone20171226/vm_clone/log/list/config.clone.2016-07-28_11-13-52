@@ -1,0 +1,2 @@
+app1:
+    - ['ST3-Template-RHEL6.5-JDK1.7_x64',UBP-mysql-master,st3,mysql,null,null,null,10.200.63.37,['ST3-5']]

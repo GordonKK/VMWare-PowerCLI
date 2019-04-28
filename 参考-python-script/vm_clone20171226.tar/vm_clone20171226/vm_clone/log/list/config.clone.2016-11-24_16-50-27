@@ -1,0 +1,5 @@
+app1:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+app2:
+    - ['Template-47.219-jdk1.7-RHEL6.5_x64',TMCT,st2,TMCT,"'zabbix' 'tomcat'",null,null,null,['Stage2-1','Stage2-2-ESXI5.5']]
+

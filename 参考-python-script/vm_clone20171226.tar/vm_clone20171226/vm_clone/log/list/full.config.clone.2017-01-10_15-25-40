@@ -1,0 +1,2 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.192 -d '68.189' -H 192.168.68.189 -c dev -i 192.168.15.192 -m TMCT-15.192
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-TMCT-15.208 -d '250.17' -H 192.168.250.17 -c dev -i 192.168.15.208 -m TMCT-15.208

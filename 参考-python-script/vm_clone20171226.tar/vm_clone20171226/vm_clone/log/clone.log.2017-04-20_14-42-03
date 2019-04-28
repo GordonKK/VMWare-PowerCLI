@@ -1,0 +1,17 @@
+2017-04-20_14-42-03
+template_name        is    Template-Rhel7.1_x64-64.244
+base_name            is    ST2-elk-9.216
+the_stage            is    st2
+host_name            is    192.168.121.22
+datastore_name       is    datastore1 (18)
+app                  is    ['zabbix']
+vm_ip                is    192.168.9.216
+vm_hostname          is    elk-9.216
+datastore free space is    301.18 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [##                                                          ] 4%
+Error failed  clone : ST2-elk-9.216 指定的参数不正确: spec.location.host
+st2 1 ['ST2-esxi6.0']
+====================================================================================================

@@ -1,0 +1,2 @@
+app1:
+    - ['template-rh7c-minimal',RH7C-KVM,dev,rh7c-kvm,"'redhat','kvm'",null,null,null,['Dev-1']]

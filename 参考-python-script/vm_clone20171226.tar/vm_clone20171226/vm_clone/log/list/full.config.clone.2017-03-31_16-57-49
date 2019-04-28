@@ -1,0 +1,2 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-灾备快钱项目组-tao.yin-55.60 -d 'datastore1 (41)' -H 192.168.70.91 -c dev -i 192.168.55.60 -m TMCT-55.60
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-灾备快钱项目组-tao.yin-55.67 -d '69.152' -H 192.168.69.152 -c dev -i 192.168.55.67 -m TMCT-55.67

@@ -1,0 +1,1 @@
+python get_clone.py -t template_RHEL6.5_tomcat7_new -b NJ-dts-TMCT-126.198 -d '126.34' -H 192.168.126.34 -c nj -i 192.168.126.198 -m TMCT-126.198

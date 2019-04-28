@@ -1,0 +1,1 @@
+python get_clone.py -t template_win2008 -b DEV-ASC-MAM-riqian.ma-55.172 -d '192.168.121.42' -H 192.168.121.42 -c dev -i 192.168.55.172 -m TMCT-55.172

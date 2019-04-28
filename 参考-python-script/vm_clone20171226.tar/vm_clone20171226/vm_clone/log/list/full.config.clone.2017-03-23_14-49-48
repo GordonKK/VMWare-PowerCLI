@@ -1,0 +1,2 @@
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-SOR_SYS-jun.zeng-55.53 -d '7.15' -H 192.168.7.15 -c dev -i 192.168.55.53 -m TMCT-55.53
+python teops_get_clone.py -t Template-47.219-jdk1.7-RHEL6.5_x64 -b DEV-SOR_SYS-jun.zeng-55.57 -d '68.189' -H 192.168.68.189 -c dev -i 192.168.55.57 -m TMCT-55.57

@@ -1,0 +1,4 @@
+app6:
+    - ['Template-oracle-rhel6.5',dts-oracle,nj,dts-oracle,null,192.168.126.36,126.36,192.168.126.118,null]
+app7:
+    - ['template_RHEL6.5_tomcat7_tibco',dts-tibco,nj,dts-tibco,null,192.168.126.36,126.36,192.168.126.119,null]

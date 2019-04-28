@@ -1,0 +1,1 @@
+python get_clone.py -t Template-Rhel7.1_x64-64.244 -b ST2-elk-9.216 -d 'datastore1 (18)' -H 192.168.121.22 -c st2 -i 192.168.9.216 -m elk-9.216 -a 'zabbix'

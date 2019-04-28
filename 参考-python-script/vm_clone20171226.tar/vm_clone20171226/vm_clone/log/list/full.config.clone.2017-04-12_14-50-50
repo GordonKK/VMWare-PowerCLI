@@ -1,0 +1,1 @@
+python get_clone.py -t template-rh6-lvm-mysql-master-64.114 -b DEV-POA_EA_SCM-linjun.zhou-55.204 -d '192.168.121.10' -H 192.168.121.10 -c dev -i 192.168.55.204 -m TMCT-55.204

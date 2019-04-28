@@ -1,0 +1,1 @@
+python get_clone.py -t DEV-DTS-tibc-47.85 -b ST2-test-testttttt-14.220 -d '7.91' -H 192.168.7.91 -c st2 -i 192.168.14.220 -m testttttt-14.220

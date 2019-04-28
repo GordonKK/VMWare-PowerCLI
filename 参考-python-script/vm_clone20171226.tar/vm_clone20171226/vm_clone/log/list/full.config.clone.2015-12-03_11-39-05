@@ -1,0 +1,2 @@
+python get_clone.py -t ST3-Template-apache-os6.5 -b ST3-apache-51.26 -d '51.19' -H 10.10.51.19 -c st3 -i 10.200.51.26 -m apache-51.26 -a 'zabbix'
+python get_clone.py -t ST3-Template-apache-os6.5 -b ST3-apache-51.27 -d 'datastore1' -H 10.10.51.76 -c st3 -i 10.200.51.27 -m apache-51.27 -a 'zabbix'

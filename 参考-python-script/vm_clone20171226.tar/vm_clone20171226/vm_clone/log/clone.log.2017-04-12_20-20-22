@@ -1,0 +1,41 @@
+2017-04-12_20-20-22
+template_name        is    template_win2008
+base_name            is    DEV-POA_QA-linjun2-55.210
+the_stage            is    dev
+host_name            is    192.168.121.12
+datastore_name       is    192.168.121.12
+app                  is    None
+vm_ip                is    192.168.55.210
+vm_hostname          is    TMCT-55.210
+datastore free space is    25833.29 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Error: the vm DEV-POA_QA-linjun2-55.210 already exists 
+Error:  clone  failed 
+dev 1 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.210
+====================================================================================================

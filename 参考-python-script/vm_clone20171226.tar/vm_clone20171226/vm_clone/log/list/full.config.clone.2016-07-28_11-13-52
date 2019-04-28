@@ -1,0 +1,1 @@
+python get_clone.py -t ST3-Template-RHEL6.5-JDK1.7_x64 -b ST3-UBP-mysql-master-63.37 -d '51.55' -H 10.10.51.55 -c st3 -i 10.200.63.37 -m mysql-63.37

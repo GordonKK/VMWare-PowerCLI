@@ -1,0 +1,43 @@
+2015-09-07_16-50-53
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-TMCT-126.71
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.71
+vm_hostname          is    TMCT-126.71
+datastore free space is    1941.43 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [############################################################] 100%
+Percent: [###                                                         ] 6%
+Error failed  clone : NJ-TMCT-126.71 保存快照时出错: 无法静默虚拟机。
+------------------------------------------------------------------------------------------------------------------------
+template_name        is    NJ-dts-TMCT-126.198
+base_name            is    NJ-TMCT-126.72
+the_stage            is    nj
+host_name            is    192.168.126.34
+datastore_name       is    126.34
+app                  is    None
+vm_ip                is    192.168.126.72
+vm_hostname          is    TMCT-126.72
+datastore free space is    1941.43 GB
+reserved space       is    300.00 GB
+ESXI  version        is    5.5
+Now  clone  ......
+Percent: [###                                                         ] 5%Percent: [###                                                         ] 6%Percent: [#######                                                     ] 12%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [######################                                      ] 38%Percent: [#######################                                     ] 39%Percent: [#######################                                     ] 39%Percent: [##############################                              ] 51%Percent: [#########################################################   ] 95%Percent: [############################################################] 100%
+
+VM NJ-TMCT-126.72 successfully clone
+set vlan  VM Network
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 12 seconds
+Now running init
+NJ-TMCT-126.72 init sucess
+NJ-TMCT-126.72 clone and init  take  77 seconds
+NJ-TMCT-126.72 reboot now
+====================================================================================================

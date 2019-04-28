@@ -1,0 +1,2 @@
+python get_clone.py -t dev-temlate-47.219 -b DEV-AML-dingqian.wang-55.147 -d '192.168.121.42' -H 192.168.121.42 -c dev -i 192.168.55.147 -m TMCT-55.147
+python get_clone.py -t dev-temlate-47.219 -b DEV-AML-dingqian.wang-55.107 -d '192.168.121.12' -H 192.168.121.12 -c dev -i 192.168.55.107 -m TMCT-55.107

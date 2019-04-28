@@ -1,0 +1,2 @@
+python teops_get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.200 -d 'datastore1 (30)' -H 192.168.70.65 -c dev -i 192.168.47.200 -m TMCT-47.200
+python teops_get_clone.py -t Template-14.251-RHEL6.5_x64 -b DEV-TMCT-47.201 -d '68.189' -H 192.168.68.189 -c dev -i 192.168.47.201 -m TMCT-47.201

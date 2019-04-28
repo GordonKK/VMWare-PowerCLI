@@ -1,0 +1,53 @@
+2017-04-12_15-28-11
+template_name        is    dev-template-lvm-mysql
+base_name            is    DEV-POA_EA_SCM-linjun.zhou-55.208
+the_stage            is    dev
+host_name            is    192.168.121.10
+datastore_name       is    192.168.121.10
+app                  is    None
+vm_ip                is    192.168.55.208
+vm_hostname          is    TMCT-55.208
+datastore free space is    4314.67 GB
+reserved space       is    300.00 GB
+ESXI  version        is    6.0
+Now  clone  ......
+Percent: [################                                            ] 27%Percent: [######################                                      ] 37%Percent: [######################                                      ] 37%Percent: [######################                                      ] 38%Percent: [#######################                                     ] 39%Percent: [########################                                    ] 40%Percent: [########################                                    ] 41%Percent: [########################                                    ] 41%Percent: [#########################                                   ] 43%Percent: [############################                                ] 48%Percent: [################################                            ] 54%Percent: [##################################                          ] 57%Percent: [##################################                          ] 57%Percent: [###################################                         ] 59%Percent: [####################################                        ] 60%Percent: [####################################                        ] 61%Percent: [####################################                        ] 61%Percent: [#####################################                       ] 62%Percent: [#####################################                       ] 63%Percent: [#######################################                     ] 66%Percent: [########################################                    ] 67%Percent: [########################################                    ] 67%Percent: [########################################                    ] 68%Percent: [########################################                    ] 68%Percent: [##########################################                  ] 70%Percent: [##############################################              ] 77%Percent: [#######################################################     ] 93%Percent: [############################################################] 100%
+
+VM DEV-POA_EA_SCM-linjun.zhou-55.208 successfully clone
+set vlan  vlan 55
+set eth connected
+waiting for vm start up  ......
+OS start up
+wait OS start up time is 24 seconds
+<pysphere.vi_virtual_machine.VIVirtualMachine object at 0x413a910>
+Now running init
+DEV-POA_EA_SCM-linjun.zhou-55.208 init sucess
+DEV-POA_EA_SCM-linjun.zhou-55.208 clone and init  take  108 seconds
+DEV-POA_EA_SCM-linjun.zhou-55.208 reboot now
+dev 1 ['DEV-esxi6.0']
+192.168.55.2 already in use
+192.168.55.50 already in use
+192.168.55.51 already in use
+192.168.55.52 already in use
+192.168.55.61 already in use
+192.168.55.62 already in use
+192.168.55.66 already in use
+192.168.55.72 already in use
+192.168.55.87 already in use
+192.168.55.88 already in use
+192.168.55.89 already in use
+192.168.55.100 already in use
+192.168.55.101 already in use
+192.168.55.102 already in use
+192.168.55.105 already in use
+192.168.55.106 already in use
+192.168.55.109 already in use
+192.168.55.111 already in use
+192.168.55.112 already in use
+192.168.55.113 already in use
+192.168.55.114 already in use
+192.168.55.116 already in use
+192.168.55.189 already in use
+192.168.55.201 already in use
+192.168.55.208
+====================================================================================================
